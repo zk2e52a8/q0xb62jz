@@ -1,0 +1,74 @@
+name: olympus
+
+env:
+  comando_script: node ./olympus_scraping.js
+  archivo_feed: olympus_feed.json
+
+concurrency:
+  group: scraping
+  cancel-in-progress: false
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  ejecutar_script:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Clonar repositorio privado
+        uses: actions/checkout@v6
+
+      - name: Instalar WireGuard
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wireguard-tools
+
+      - name: Configurar WireGuard
+        run: |
+          sudo mkdir -p /etc/wireguard/
+          echo "${{ secrets.WG_CONFIG }}" | sudo tee /etc/wireguard/wg0.conf > /dev/null
+          sudo chmod 600 /etc/wireguard/wg0.conf
+
+      - name: Iniciar conexión WireGuard (timeout 30s)
+        run: |
+          sudo timeout --foreground 30s wg-quick up wg0 \
+            || { echo "::error::No se logró conectarse a WireGuard wg0"; exit 1; }
+
+      - name: Verificar conexión
+        run: |
+          if ! curl --fail --max-time 10 -s https://google.com > /dev/null; then
+            echo "::error::Conexión no establecida; revisar credenciales"
+            exit 1
+          fi
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v5
+
+      - name: Instalar dependencias
+        run: |
+          npm install --prefix /tmp/scraping puppeteer puppeteer-extra puppeteer-extra-plugin-stealth
+          npx puppeteer browsers install chrome
+
+      - name: Ejecutar script
+        run: |
+          export NODE_PATH=/tmp/scraping/node_modules
+          bash -c "$comando_script"
+
+      - name: Configurar git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Subir cambios al repo
+        run: |
+          if git status --porcelain | grep -q .; then
+            git add --all
+            git commit -m "Actualizado: $archivo_feed"
+            git push origin main
+          else
+            echo "Sin cambios"
+          fi
