@@ -57,9 +57,12 @@ jobs:
           key: ${{ runner.os }}-scraping-v1
     
       - name: Preparar entorno
+        env:
+          SCRAPING_HOME: ${{ runner.temp }}/scraping
+          PUPPETEER_CACHE_DIR: ${{ runner.temp }}/puppeteer
         run: |
-          mkdir -p "$HOME/.cache/scraping"
-          cd "$HOME/.cache/scraping"
+          mkdir -p "$SCRAPING_HOME"
+          cd "$SCRAPING_HOME"
 
           # Solo inicializar si no existe
           if [ ! -f package.json ]; then
@@ -71,15 +74,14 @@ jobs:
               npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth
           fi
 
-      - name: Instalar chrome (Puppeteer)
-        env:
-          PUPPETEER_CACHE_DIR: ~/.cache/puppeteer
-        run: |
           npx puppeteer browsers install chrome
 
       - name: Ejecutar script
+        env:
+          SCRAPING_HOME: ${{ runner.temp }}/scraping
+          PUPPETEER_CACHE_DIR: ${{ runner.temp }}/puppeteer
         run: |
-          export NODE_PATH="$HOME/.cache/scraping/node_modules"
+          export NODE_PATH="$SCRAPING_HOME/node_modules"
           bash -c "$comando_script"
 
       - name: Configurar git
