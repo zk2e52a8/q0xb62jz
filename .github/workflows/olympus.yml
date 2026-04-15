@@ -47,25 +47,15 @@ jobs:
 
       - name: Configurar Node.js
         uses: actions/setup-node@v5
-        with:
-          cache: 'npm'
-
-      - name: Cache de Puppeteer
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/puppeteer
-          key: ${{ runner.os }}-puppeteer-v1
 
       - name: Instalar dependencias
-        env:
-          PUPPETEER_CACHE_DIR: ~/.cache/puppeteer
         run: |
-          npm install --prefix "$HOME/.cache/scraping" puppeteer puppeteer-extra puppeteer-extra-plugin-stealth
+          npm install --prefix /tmp/scraping puppeteer puppeteer-extra puppeteer-extra-plugin-stealth
           npx puppeteer browsers install chrome
 
       - name: Ejecutar script
         run: |
-          export NODE_PATH="$HOME/.cache/scraping/node_modules"
+          export NODE_PATH=/tmp/scraping/node_modules
           bash -c "$comando_script"
 
       - name: Configurar git
