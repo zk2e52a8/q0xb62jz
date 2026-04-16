@@ -175,7 +175,7 @@ const procesar_paginas = async (pagina) => {
 
 		// Registrar la ficha en el feed
 		json_feed_base.items.push({
-			id: ficha.capitulo.trim(),
+			id: `${titulo_feed} [${ficha.capitulo.trim()}]`,
 			url: ficha.url
 		});
 
