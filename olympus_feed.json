@@ -3,14 +3,69 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Herrero Genio del Juego [Capítulo 50]",
+			"title": "El Herrero Genio del Juego [Capítulo 50]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-herrero-genio-del-juego"
+		},
+		{
+			"id": "El Despiadado Demonio Celestial [Capítulo 308]",
+			"title": "El Despiadado Demonio Celestial [Capítulo 308]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-despiadado-demonio-celestial-20260417-130935007"
+		},
+		{
+			"id": "Jugador de la noble familia caída [Capítulo 41]",
+			"title": "Jugador de la noble familia caída [Capítulo 41]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugador-de-la-noble-familia-caida"
+		},
+		{
+			"id": "Mi Invocación es de Clase EX [Capítulo 21]",
+			"title": "Mi Invocación es de Clase EX [Capítulo 21]",
+			"url": "https://olympusbiblioteca.com/series/comic-mi-invocacion-es-de-clase-ex"
+		},
+		{
+			"id": "Regresor de la familia caída [Capítulo 128]",
+			"title": "Regresor de la familia caída [Capítulo 128]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260417-130551838"
+		},
+		{
+			"id": "Actúe como un jefecito final, Sr. devorador [Capítulo 122]",
+			"title": "Actúe como un jefecito final, Sr. devorador [Capítulo 122]",
+			"url": "https://olympusbiblioteca.com/series/comic-actue-com20-225-l-sr-devorador"
+		},
+		{
+			"id": "Helmut: El Niño Abandonado [Capítulo 129.5]",
+			"title": "Helmut: El Niño Abandonado [Capítulo 129.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-helm20-225-ut-el-nino-abandonado13424"
+		},
+		{
+			"id": "Regresión del bastardo del clan de la espada [Capítulo 91]",
+			"title": "Regresión del bastardo del clan de la espada [Capítulo 91]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresion10-05-20250152309"
+		},
+		{
+			"id": "Mestizo [Capítulo 45.1]",
+			"title": "Mestizo [Capítulo 45.1]",
+			"url": "https://olympusbiblioteca.com/series/comic-mestizo"
+		},
+		{
+			"id": "Como vivir como el principe enemigo [Capítulo 109]",
+			"title": "Como vivir como el principe enemigo [Capítulo 109]",
+			"url": "https://olympusbiblioteca.com/series/comic-como-v20-225-rincipe-enemigo5324"
+		},
+		{
+			"id": "Estandar de la Reencarnación [Capítulo 177]",
+			"title": "Estandar de la Reencarnación [Capítulo 177]",
+			"url": "https://olympusbiblioteca.com/series/comic-elmancochet20-225-o532413424"
+		},
+		{
+			"id": "El Santo que sube de nivel como Nigromante [Capítulo 15]",
+			"title": "El Santo que sube de nivel como Nigromante [Capítulo 15]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-santo-que-sube-de-nivel-como-nigromante"
+		},
+		{
 			"id": "Montañas de cadáveres y mar de sangre [Capítulo 31]",
 			"title": "Montañas de cadáveres y mar de sangre [Capítulo 31]",
 			"url": "https://olympusbiblioteca.com/series/comic-montanas-de-cadaveres-y-mar-de-sangre"
-		},
-		{
-			"id": "Regresor de la familia caída [Capítulo 127]",
-			"title": "Regresor de la familia caída [Capítulo 127]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260416-130552273"
 		},
 		{
 			"id": "Inicializando el Sistema de la Secta [Capítulo 34]",
@@ -46,11 +101,6 @@
 			"id": "Sin fin skills [Capítulo 254]",
 			"title": "Sin fin skills [Capítulo 254]",
 			"url": "https://olympusbiblioteca.com/series/comic-sin-fin-skills-20260416-130940158"
-		},
-		{
-			"id": "Regresión del bastardo del clan de la espada [Capítulo 91]",
-			"title": "Regresión del bastardo del clan de la espada [Capítulo 91]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresion10-05-20250152309"
 		},
 		{
 			"id": "Caballero en Eterna Regresión [Capítulo 105]",
@@ -101,6 +151,11 @@
 			"id": "Hijos de la Runa [Capítulo 55]",
 			"title": "Hijos de la Runa [Capítulo 55]",
 			"url": "https://olympusbiblioteca.com/series/comic-hijoo5324s-de-la-runa"
+		},
+		{
+			"id": "Regresor de la familia caída [Capítulo 127]",
+			"title": "Regresor de la familia caída [Capítulo 127]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260416-130552273"
 		},
 		{
 			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 66]",
