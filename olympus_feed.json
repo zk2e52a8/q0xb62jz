@@ -3,6 +3,41 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Montañas de cadáveres y mar de sangre [Capítulo 31]",
+			"title": "Montañas de cadáveres y mar de sangre [Capítulo 31]",
+			"url": "https://olympusbiblioteca.com/series/comic-montanas-de-cadaveres-y-mar-de-sangre"
+		},
+		{
+			"id": "Regresor de la familia caída [Capítulo 127]",
+			"title": "Regresor de la familia caída [Capítulo 127]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260416-130552273"
+		},
+		{
+			"id": "Inicializando el Sistema de la Secta [Capítulo 34]",
+			"title": "Inicializando el Sistema de la Secta [Capítulo 34]",
+			"url": "https://olympusbiblioteca.com/series/comic-inicializando-el-sistema-de-la-secta-20260416-131356300"
+		},
+		{
+			"id": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 151]",
+			"title": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 151]",
+			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-al-juego-siendo-un-barbaro-bjorn-el-barbaro-20260416-131149766"
+		},
+		{
+			"id": "Odisea en la Mazmorra [Capítulo 156]",
+			"title": "Odisea en la Mazmorra [Capítulo 156]",
+			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424"
+		},
+		{
+			"id": "Los Breakers [Capítulo 67]",
+			"title": "Los Breakers [Capítulo 67]",
+			"url": "https://olympusbiblioteca.com/series/comic-los-breakers-20260416-131410776"
+		},
+		{
+			"id": "Construyendo un imperio industrial en un mundo mágico [Capítulo 80.6]",
+			"title": "Construyendo un imperio industrial en un mundo mágico [Capítulo 80.6]",
+			"url": "https://olympusbiblioteca.com/series/comic-construye10-05-2025en-un-mundo-magico"
+		},
+		{
 			"id": "Los gemelos Baek [Capítulo 165]",
 			"title": "Los gemelos Baek [Capítulo 165]",
 			"url": "https://olympusbiblioteca.com/series/comic-los-gemelos-baek-20260416-131202050"
@@ -41,11 +76,6 @@
 			"id": "El Retornado Quiere una Vida Tranquila [Capítulo 41]",
 			"title": "El Retornado Quiere una Vida Tranquila [Capítulo 41]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-retornado-quiere-una-vida-tranquila"
-		},
-		{
-			"id": "Construyendo un imperio industrial en un mundo mágico [Capítulo 80.5]",
-			"title": "Construyendo un imperio industrial en un mundo mágico [Capítulo 80.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-construye10-05-2025en-un-mundo-magico"
 		},
 		{
 			"id": "Convirtiéndome en el Perro Loco del Clan Cheon [Capítulo 14]",
@@ -121,6 +151,11 @@
 			"id": "Viviendo como un Lord Vampiro [Capítulo 39]",
 			"title": "Viviendo como un Lord Vampiro [Capítulo 39]",
 			"url": "https://olympusbiblioteca.com/series/comic-viviendo-como-un-lord-vampiro"
+		},
+		{
+			"id": "Construyendo un imperio industrial en un mundo mágico [Capítulo 80.5]",
+			"title": "Construyendo un imperio industrial en un mundo mágico [Capítulo 80.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-construye10-05-2025en-un-mundo-magico"
 		},
 		{
 			"id": "Viviendo como un bárbaro en un mundo de fantasÍa [Capítulo 52]",
