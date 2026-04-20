@@ -3,14 +3,14 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Reencarnado [Capítulo 125]",
+			"title": "Reencarnado [Capítulo 125]",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarnado-20260419-130551048"
+		},
+		{
 			"id": "El Stream del Reencarnado [Capítulo 46]",
 			"title": "El Stream del Reencarnado [Capítulo 46]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado-20260419-131430593"
-		},
-		{
-			"id": "Reencarnado [Capítulo 124]",
-			"title": "Reencarnado [Capítulo 124]",
-			"url": "https://olympusbiblioteca.com/series/comic-reencarnado-20260419-130551048"
 		},
 		{
 			"id": "La Regresión Inigualable del Caza Dragones [Capítulo 81]",
@@ -151,6 +151,11 @@
 			"id": "¡Que abundante cosecha, señor demonio! [Capítulo 63]",
 			"title": "¡Que abundante cosecha, señor demonio! [Capítulo 63]",
 			"url": "https://olympusbiblioteca.com/series/comic-que-abundante-cosecha-senor-demonio-20260418-130842192"
+		},
+		{
+			"id": "Reencarnado [Capítulo 124]",
+			"title": "Reencarnado [Capítulo 124]",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarnado-20260419-130551048"
 		},
 		{
 			"id": "La Regresión Inigualable del Caza Dragones [Capítulo 80]",
