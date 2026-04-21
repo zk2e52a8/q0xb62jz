@@ -3,6 +3,51 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "La Guía Definitiva del Extra de Nivel Dios (Remake) [Capítulo 53]",
+			"title": "La Guía Definitiva del Extra de Nivel Dios (Remake) [Capítulo 53]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-acogedor-de-estrellas-20260421-142545259"
+		},
+		{
+			"id": "El Indomable Rey Marcial [Capítulo 129]",
+			"title": "El Indomable Rey Marcial [Capítulo 129]",
+			"url": "https://olympusbiblioteca.com/series/comic-colorista-20260421-143318916"
+		},
+		{
+			"id": "Un héroe que sabe lo que hace [Capítulo 23]",
+			"title": "Un héroe que sabe lo que hace [Capítulo 23]",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarne-como-el-heredero-loco-20260421-142737784"
+		},
+		{
+			"id": "entrenador de clases [Capítulo 154]",
+			"title": "entrenador de clases [Capítulo 154]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-ext20-225-ra-de-la-novela-remake13424"
+		},
+		{
+			"id": "Colorista [Capítulo 28]",
+			"title": "Colorista [Capítulo 28]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-espada-suprema-demoniaca-20260421-143453965"
+		},
+		{
+			"id": "Secta de la montaña [Capítulo 159]",
+			"title": "Secta de la montaña [Capítulo 159]",
+			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20260421-142826012"
+		},
+		{
+			"id": "El Mago Genio Destructor de Límites [Capítulo 54]",
+			"title": "El Mago Genio Destructor de Límites [Capítulo 54]",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarnado-20260421-142634231"
+		},
+		{
+			"id": "El maestro de la espada acogedor de estrellas [Capítulo 119]",
+			"title": "El maestro de la espada acogedor de estrellas [Capítulo 119]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado-20260421-143406121"
+		},
+		{
+			"id": "Reencarne como el heredero loco [Capítulo 194]",
+			"title": "Reencarne como el heredero loco [Capítulo 194]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-reg10-05-2025del-caza-dragones"
+		},
+		{
 			"id": "El extra de la novela (remake) [Capítulo 154]",
 			"title": "El extra de la novela (remake) [Capítulo 154]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-ext20-225-ra-de-la-novela-remake13424"
@@ -31,36 +76,6 @@
 			"id": "La Regresión Inigualable del Caza Dragones [Capítulo 81]",
 			"title": "La Regresión Inigualable del Caza Dragones [Capítulo 81]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-reg10-05-2025del-caza-dragones"
-		},
-		{
-			"id": "El Mercenario que Reencarno entre Aristócratas [Capítulo 27]",
-			"title": "El Mercenario que Reencarno entre Aristócratas [Capítulo 27]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mercenario-que-reencarno-entre-aristocratas-20260419-131408937"
-		},
-		{
-			"id": "Odisea en la Mazmorra [Capítulo 157]",
-			"title": "Odisea en la Mazmorra [Capítulo 157]",
-			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424"
-		},
-		{
-			"id": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 257]",
-			"title": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 257]",
-			"url": "https://olympusbiblioteca.com/series/comic-llevo-mil-anos-atrapado-en-el-mismo-dia"
-		},
-		{
-			"id": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 167]",
-			"title": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 167]",
-			"url": "https://olympusbiblioteca.com/series/comic-cronicas-de-la-faccion-demoniaca-chun-hajin-el-asesino-mas-fuerte-20260419-131125344"
-		},
-		{
-			"id": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 13]",
-			"title": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 13]",
-			"url": "https://olympusbiblioteca.com/series/comic-guia-de-supervivencia-del-cazador-de-bestias-demoniacas-20260419-131541356"
-		},
-		{
-			"id": "Empiezo con 13 Rasgos Ocultos [Capítulo 26]",
-			"title": "Empiezo con 13 Rasgos Ocultos [Capítulo 26]",
-			"url": "https://olympusbiblioteca.com/series/comic-empiezo-con-13-rasgos-ocultos-20260419-131507561"
 		},
 		{
 			"id": "El dinero del Lord no disminuye [Capítulo 202]",
@@ -113,11 +128,6 @@
 			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica"
 		},
 		{
-			"id": "Colorista [Capítulo 27]",
-			"title": "Colorista [Capítulo 27]",
-			"url": "https://olympusbiblioteca.com/series/comic-colorista-20260419-131336040"
-		},
-		{
 			"id": "Dominación Del Emperador [Capítulo 132]",
 			"title": "Dominación Del Emperador [Capítulo 132]",
 			"url": "https://olympusbiblioteca.com/series/comic-5zxzel-emperador87877"
@@ -141,6 +151,41 @@
 			"id": "La venganza del sabueso de sangre de hierro [Capítulo 159]",
 			"title": "La venganza del sabueso de sangre de hierro [Capítulo 159]",
 			"url": "https://olympusbiblioteca.com/series/comic-20-225-2sabueso13424"
+		},
+		{
+			"id": "El Mercenario que Reencarno entre Aristócratas [Capítulo 27]",
+			"title": "El Mercenario que Reencarno entre Aristócratas [Capítulo 27]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mercenario-que-reencarno-entre-aristocratas-20260419-131408937"
+		},
+		{
+			"id": "Odisea en la Mazmorra [Capítulo 157]",
+			"title": "Odisea en la Mazmorra [Capítulo 157]",
+			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424"
+		},
+		{
+			"id": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 257]",
+			"title": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 257]",
+			"url": "https://olympusbiblioteca.com/series/comic-llevo-mil-anos-atrapado-en-el-mismo-dia"
+		},
+		{
+			"id": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 167]",
+			"title": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 167]",
+			"url": "https://olympusbiblioteca.com/series/comic-cronicas-de-la-faccion-demoniaca-chun-hajin-el-asesino-mas-fuerte-20260419-131125344"
+		},
+		{
+			"id": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 13]",
+			"title": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 13]",
+			"url": "https://olympusbiblioteca.com/series/comic-guia-de-supervivencia-del-cazador-de-bestias-demoniacas-20260419-131541356"
+		},
+		{
+			"id": "Empiezo con 13 Rasgos Ocultos [Capítulo 26]",
+			"title": "Empiezo con 13 Rasgos Ocultos [Capítulo 26]",
+			"url": "https://olympusbiblioteca.com/series/comic-empiezo-con-13-rasgos-ocultos-20260419-131507561"
+		},
+		{
+			"id": "Colorista [Capítulo 27]",
+			"title": "Colorista [Capítulo 27]",
+			"url": "https://olympusbiblioteca.com/series/comic-colorista-20260419-131336040"
 		},
 		{
 			"id": "Guía de estrategia de un cobarde para conquistar la torre [Capítulo 22]",
