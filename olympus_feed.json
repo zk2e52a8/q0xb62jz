@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Artista Marcial de Sangre Demoníaca [Capítulo 30]",
+			"title": "El Artista Marcial de Sangre Demoníaca [Capítulo 30]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-artista-marcial-de-sangre-demoniaca"
+		},
+		{
 			"id": "Crónicas del Retorno del Dios Marcial [Capítulo 157]",
 			"title": "Crónicas del Retorno del Dios Marcial [Capítulo 157]",
 			"url": "https://olympusbiblioteca.com/series/comic-cronica20-225-os-marcial13424"
@@ -2496,11 +2501,6 @@
 			"id": "Deuda de Sangre [Capítulo 19]",
 			"title": "Deuda de Sangre [Capítulo 19]",
 			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre-20260401-131238556"
-		},
-		{
-			"id": "Asesino Pietro (Viejo sabroso)| [Capítulo 124]",
-			"title": "Asesino Pietro (Viejo sabroso)| [Capítulo 124]",
-			"url": "https://olympusbiblioteca.com/series/comic-asesino-pietro-viejo-sabroso-20260401-130201573"
 		}
 	]
 }
