@@ -1,8 +1,8 @@
-name: Mango - Cultivando en la torre en solitario
+name: Mango - El tutorial es demasiado difícil
 
 env:
-  comando_script: node ./mango_scraping.js "series/cultivando-en-la-torre-en-solitario" "Mango - Cultivando en la torre en solitario" "mango_feed_cultivando-la-torre-en-solitario.json"
-  archivo_feed: mango_feed_cultivando-la-torre-en-solitario.json
+  archivo_feed: mango_feed_el-tutorial-es-demasiado-dificil.json
+  comando_script: node ./mango_scraping.js "series/el-tutorial-es-demasiado-dificil" "Mango - El tutorial es demasiado difícil" "$archivo_feed"
 
 concurrency:
   group: scraping
