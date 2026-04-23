@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Resurrección solitaria [Capítulo 91]",
+			"title": "Resurrección solitaria [Capítulo 91]",
+			"url": "https://olympusbiblioteca.com/series/comic-resurreccion-solitaria-20260422-130400409"
+		},
+		{
 			"id": "Renacido en el Campo de Batalla Demoníaco [Capítulo 34]",
 			"title": "Renacido en el Campo de Batalla Demoníaco [Capítulo 34]",
 			"url": "https://olympusbiblioteca.com/series/comic-renacido-en-el-campo-de-batalla-demoniaco-20260422-130423398"
@@ -2496,11 +2501,6 @@
 			"id": "El Despiadado Demonio Celestial [Capítulo 306]",
 			"title": "El Despiadado Demonio Celestial [Capítulo 306]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-despiadado-demonio-celestial-20260401-130643229"
-		},
-		{
-			"id": "Las crónicas del clan Tang [Capítulo 41]",
-			"title": "Las crónicas del clan Tang [Capítulo 41]",
-			"url": "https://olympusbiblioteca.com/series/comic-las-cronicas-del-clan-tang-20260401-131026933"
 		}
 	]
 }
