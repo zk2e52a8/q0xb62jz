@@ -3,13 +3,33 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
-			"id": "El sobreviviente más fuerte del mundo [Capítulo 23]",
-			"title": "El sobreviviente más fuerte del mundo [Capítulo 23]",
+			"id": "Los gemelos Baek [Capítulo 169]",
+			"title": "Los gemelos Baek [Capítulo 169]",
+			"url": "https://olympusbiblioteca.com/series/comic-los-gemelos-baek-20260423-130048819"
+		},
+		{
+			"id": "Jugador devorador de artefactos [Capítulo 35]",
+			"title": "Jugador devorador de artefactos [Capítulo 35]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugador-devorador-de-artefactos-20260423-130035373"
+		},
+		{
+			"id": "El bastardo devorador de armas. [Capítulo 81]",
+			"title": "El bastardo devorador de armas. [Capítulo 81]",
+			"url": "https://olympusbiblioteca.com/series/comic-o5324evorador-de-armas"
+		},
+		{
+			"id": "De duende a Dios Goblin [Capítulo 105.5]",
+			"title": "De duende a Dios Goblin [Capítulo 105.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-de-duen10-05-2025de-a-dios-goblin"
+		},
+		{
+			"id": "El sobreviviente más fuerte del mundo [Capítulo 25]",
+			"title": "El sobreviviente más fuerte del mundo [Capítulo 25]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-sobreviviente-mas-fuerte-del-mundo-20260423-130038070"
 		},
 		{
-			"id": "entrenador de clases [Capítulo 159]",
-			"title": "entrenador de clases [Capítulo 159]",
+			"id": "entrenador de clases [Capítulo 160]",
+			"title": "entrenador de clases [Capítulo 160]",
 			"url": "https://olympusbiblioteca.com/series/comic-entrenador-de-clases-20260423-130038685"
 		},
 		{
@@ -78,6 +98,11 @@
 			"url": "https://olympusbiblioteca.com/series/comic-el-sentido-absoluto-de-las-espadas-20260423-130022923"
 		},
 		{
+			"id": "Resurrección solitaria [Capítulo 91]",
+			"title": "Resurrección solitaria [Capítulo 91]",
+			"url": "https://olympusbiblioteca.com/series/comic-resurreccion-solitaria-20260422-130400409"
+		},
+		{
 			"id": "Un hombre moderno que transmigró al mundo murim [Capítulo 175]",
 			"title": "Un hombre moderno que transmigró al mundo murim [Capítulo 175]",
 			"url": "https://olympusbiblioteca.com/series/comic-un-hombre-moderno-que-transmigro-al-mundo-murim-20260422-130427774"
@@ -86,11 +111,6 @@
 			"id": "Academia de la Ascensión [Capítulo 195]",
 			"title": "Academia de la Ascensión [Capítulo 195]",
 			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20260422-130351407"
-		},
-		{
-			"id": "El sobreviviente más fuerte del mundo [Capítulo 22]",
-			"title": "El sobreviviente más fuerte del mundo [Capítulo 22]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-sobreviviente-mas-fuerte-del-mundo-20260422-130407351"
 		},
 		{
 			"id": "Grupo de Estudio [Capítulo 314]",
@@ -133,6 +153,21 @@
 			"url": "https://olympusbiblioteca.com/series/comic-entrenador-de-clases-20260422-130407942"
 		},
 		{
+			"id": "El sobreviviente más fuerte del mundo [Capítulo 23]",
+			"title": "El sobreviviente más fuerte del mundo [Capítulo 23]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-sobreviviente-mas-fuerte-del-mundo-20260423-130038070"
+		},
+		{
+			"id": "entrenador de clases [Capítulo 159]",
+			"title": "entrenador de clases [Capítulo 159]",
+			"url": "https://olympusbiblioteca.com/series/comic-entrenador-de-clases-20260423-130038685"
+		},
+		{
+			"id": "El sobreviviente más fuerte del mundo [Capítulo 22]",
+			"title": "El sobreviviente más fuerte del mundo [Capítulo 22]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-sobreviviente-mas-fuerte-del-mundo-20260422-130407351"
+		},
+		{
 			"id": "El Mercenario que Reencarno entre Aristócratas [Capítulo 28]",
 			"title": "El Mercenario que Reencarno entre Aristócratas [Capítulo 28]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-lege20-225-ndario-marques13424"
@@ -156,11 +191,6 @@
 			"id": "entrenador de clases [Capítulo 157]",
 			"title": "entrenador de clases [Capítulo 157]",
 			"url": "https://olympusbiblioteca.com/series/comic-entrenador-de-clases-20260423-130038685"
-		},
-		{
-			"id": "Resurrección solitaria [Capítulo 91]",
-			"title": "Resurrección solitaria [Capítulo 91]",
-			"url": "https://olympusbiblioteca.com/series/comic-resurreccion-solitaria-20260422-130400409"
 		},
 		{
 			"id": "Pick me up, Gacha Infinito [Capítulo 198]",
@@ -2471,36 +2501,6 @@
 			"id": "apocalipsis zombie 82 08 [Capítulo 115]",
 			"title": "apocalipsis zombie 82 08 [Capítulo 115]",
 			"url": "https://olympusbiblioteca.com/series/comic-apocalipsis-zombie-82-08-20260401-130142230"
-		},
-		{
-			"id": "El Regreso del Maestro del Infierno [Capítulo 43]",
-			"title": "El Regreso del Maestro del Infierno [Capítulo 43]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-maestro-del-infierno-20260401-131028019"
-		},
-		{
-			"id": "El Troll más fuerte del mundo [Capítulo 174]",
-			"title": "El Troll más fuerte del mundo [Capítulo 174]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-troll-mas-fuerte-del-mundo-20260401-130239415"
-		},
-		{
-			"id": "Maldita Reencarnación [Capítulo 81.10]",
-			"title": "Maldita Reencarnación [Capítulo 81.10]",
-			"url": "https://olympusbiblioteca.com/series/comic-otr20-225-rencarnado13424"
-		},
-		{
-			"id": "La Espada Suprema Demoníaca [Capítulo 25]",
-			"title": "La Espada Suprema Demoníaca [Capítulo 25]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-espada-suprema-demoniaca-20260401-131239572"
-		},
-		{
-			"id": "Construyendo un imperio industrial en un mundo mágico [Capítulo 80]",
-			"title": "Construyendo un imperio industrial en un mundo mágico [Capítulo 80]",
-			"url": "https://olympusbiblioteca.com/series/comic-construye10-05-2025en-un-mundo-magico"
-		},
-		{
-			"id": "toxicólogo del clan tang de sichuan [Capítulo 80]",
-			"title": "toxicólogo del clan tang de sichuan [Capítulo 80]",
-			"url": "https://olympusbiblioteca.com/series/comic-toxicologo-del-clan-tang-de-sichuan-20260403-130550693"
 		}
 	]
 }
