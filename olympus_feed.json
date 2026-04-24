@@ -3,14 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Jugador devorador de artefactos [Capítulo 36]",
+			"title": "Jugador devorador de artefactos [Capítulo 36]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugador-devorador-de-artefactos-20260423-130035373"
+		},
+		{
+			"id": "Civilización Nebula [Capítulo 123]",
+			"title": "Civilización Nebula [Capítulo 123]",
+			"url": "https://olympusbiblioteca.com/series/comic-civilizacion-nebula-20260423-130024653"
+		},
+		{
+			"id": "El Espectro del Desierto Calcinado [Capítulo 1]",
+			"title": "El Espectro del Desierto Calcinado [Capítulo 1]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-espectro-del-desierto-calcinado"
+		},
+		{
 			"id": "Los gemelos Baek [Capítulo 169]",
 			"title": "Los gemelos Baek [Capítulo 169]",
 			"url": "https://olympusbiblioteca.com/series/comic-los-gemelos-baek-20260423-130048819"
-		},
-		{
-			"id": "Jugador devorador de artefactos [Capítulo 35]",
-			"title": "Jugador devorador de artefactos [Capítulo 35]",
-			"url": "https://olympusbiblioteca.com/series/comic-jugador-devorador-de-artefactos-20260423-130035373"
 		},
 		{
 			"id": "El bastardo devorador de armas. [Capítulo 81]",
@@ -141,6 +151,11 @@
 			"id": "Acampando en otro Mundo: buscandole el sazon a la vida [Capítulo 106]",
 			"title": "Acampando en otro Mundo: buscandole el sazon a la vida [Capítulo 106]",
 			"url": "https://olympusbiblioteca.com/series/comic-acampando-en-otro-mundo-buscandole-el-sazon-a-la-vida-20260422-130423530"
+		},
+		{
+			"id": "Jugador devorador de artefactos [Capítulo 35]",
+			"title": "Jugador devorador de artefactos [Capítulo 35]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugador-devorador-de-artefactos-20260423-130035373"
 		},
 		{
 			"id": "El legendario hijo menor de la Casa del Marques [Capítulo 160.6]",
@@ -2486,21 +2501,6 @@
 			"id": "Renacido en el Campo de Batalla Demoníaco [Capítulo 31]",
 			"title": "Renacido en el Campo de Batalla Demoníaco [Capítulo 31]",
 			"url": "https://olympusbiblioteca.com/series/comic-renacido-en-el-campo-de-batalla-demoniaco-20260401-131028940"
-		},
-		{
-			"id": "Villano antihéroe [Capítulo 225]",
-			"title": "Villano antihéroe [Capítulo 225]",
-			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe-20260401-130817315"
-		},
-		{
-			"id": "De duende a Dios Goblin [Capítulo 103]",
-			"title": "De duende a Dios Goblin [Capítulo 103]",
-			"url": "https://olympusbiblioteca.com/series/comic-de-duen10-05-2025de-a-dios-goblin"
-		},
-		{
-			"id": "apocalipsis zombie 82 08 [Capítulo 115]",
-			"title": "apocalipsis zombie 82 08 [Capítulo 115]",
-			"url": "https://olympusbiblioteca.com/series/comic-apocalipsis-zombie-82-08-20260401-130142230"
 		}
 	]
 }
