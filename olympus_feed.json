@@ -3,6 +3,46 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Los gemelos Baek [Capítulo 169]",
+			"title": "Los gemelos Baek [Capítulo 169]",
+			"url": "https://olympusbiblioteca.com/series/comic-los-gemelos-baek-20260423-130048819"
+		},
+		{
+			"id": "El legendario prodigio del ducado [Capítulo 45]",
+			"title": "El legendario prodigio del ducado [Capítulo 45]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado"
+		},
+		{
+			"id": "Heroe, regresa [Capítulo 151]",
+			"title": "Heroe, regresa [Capítulo 151]",
+			"url": "https://olympusbiblioteca.com/series/comic-dragon-20-225-y-heroe13424"
+		},
+		{
+			"id": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 52]",
+			"title": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 52]",
+			"url": "https://olympusbiblioteca.com/series/comic-me-converti-en-el-villano-con-el-que-la-heroina-esta-obsesionada"
+		},
+		{
+			"id": "El Blinker genio de la academia mágica [Capítulo 94.5]",
+			"title": "El Blinker genio de la academia mágica [Capítulo 94.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica"
+		},
+		{
+			"id": "El Herrero que Regresó para Reparar Todo [Capítulo 26]",
+			"title": "El Herrero que Regresó para Reparar Todo [Capítulo 26]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-herrero-que-regreso-para-reparar-todo"
+		},
+		{
+			"id": "El renacimiento del Demonio Divino [Capítulo 29]",
+			"title": "El renacimiento del Demonio Divino [Capítulo 29]",
+			"url": "https://olympusbiblioteca.com/series/comic-1el-renacimiento-del-demonio-divino"
+		},
+		{
+			"id": "Sistema de cultivo del demonio celestial [Capítulo 175]",
+			"title": "Sistema de cultivo del demonio celestial [Capítulo 175]",
+			"url": "https://olympusbiblioteca.com/series/comic-sistema-de-cultivo-del-demonio-celestial-20260425-130041038"
+		},
+		{
 			"id": "Cómo criar villanos correctamente [Capítulo 32]",
 			"title": "Cómo criar villanos correctamente [Capítulo 32]",
 			"url": "https://olympusbiblioteca.com/series/comic-como-criar-villanos-correctamente-20260425-130112956"
@@ -38,16 +78,6 @@
 			"url": "https://olympusbiblioteca.com/series/comic-el-sobreviviente-mas-fuerte-del-mundo-20260424-130337858"
 		},
 		{
-			"id": "Mi Hermano Pequeño Es El Mejor De La Academia [Capítulo 136]",
-			"title": "Mi Hermano Pequeño Es El Mejor De La Academia [Capítulo 136]",
-			"url": "https://olympusbiblioteca.com/series/comic-mi-20-225-hermanoi-pequeno-lol-acamedia"
-		},
-		{
-			"id": "El Herrero Genio del Juego [Capítulo 51]",
-			"title": "El Herrero Genio del Juego [Capítulo 51]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-herrero-genio-del-juego"
-		},
-		{
 			"id": "Sin fin skills [Capítulo 255]",
 			"title": "Sin fin skills [Capítulo 255]",
 			"url": "https://olympusbiblioteca.com/series/comic-sin-fin-skills-20260424-130339773"
@@ -73,9 +103,9 @@
 			"url": "https://olympusbiblioteca.com/series/comic-el-despiadado-demonio-celestial-20260424-130339106"
 		},
 		{
-			"id": "El renacimiento del Demonio Divino [Capítulo 28]",
-			"title": "El renacimiento del Demonio Divino [Capítulo 28]",
-			"url": "https://olympusbiblioteca.com/series/comic-1el-renacimiento-del-demonio-divino"
+			"id": "Voy a Aniquilar Esta Tierra [Capítulo 73]",
+			"title": "Voy a Aniquilar Esta Tierra [Capítulo 73]",
+			"url": "https://olympusbiblioteca.com/series/comic-voy-a-an10-05-2025-tierra"
 		},
 		{
 			"id": "Actúe como un jefecito final, Sr. devorador [Capítulo 123]",
@@ -123,6 +153,21 @@
 			"url": "https://olympusbiblioteca.com/series/comic-el-santo-que-sube-de-nivel-como-nigromante"
 		},
 		{
+			"id": "Mi Hermano Pequeño Es El Mejor De La Academia [Capítulo 136]",
+			"title": "Mi Hermano Pequeño Es El Mejor De La Academia [Capítulo 136]",
+			"url": "https://olympusbiblioteca.com/series/comic-mi-20-225-hermanoi-pequeno-lol-acamedia"
+		},
+		{
+			"id": "El Herrero Genio del Juego [Capítulo 51]",
+			"title": "El Herrero Genio del Juego [Capítulo 51]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-herrero-genio-del-juego"
+		},
+		{
+			"id": "El renacimiento del Demonio Divino [Capítulo 28]",
+			"title": "El renacimiento del Demonio Divino [Capítulo 28]",
+			"url": "https://olympusbiblioteca.com/series/comic-1el-renacimiento-del-demonio-divino"
+		},
+		{
 			"id": "Civilización Nebula [Capítulo 123]",
 			"title": "Civilización Nebula [Capítulo 123]",
 			"url": "https://olympusbiblioteca.com/series/comic-civilizacion-nebula-20260423-130024653"
@@ -131,11 +176,6 @@
 			"id": "El Espectro del Desierto Calcinado [Capítulo 1]",
 			"title": "El Espectro del Desierto Calcinado [Capítulo 1]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-espectro-del-desierto-calcinado"
-		},
-		{
-			"id": "Los gemelos Baek [Capítulo 169]",
-			"title": "Los gemelos Baek [Capítulo 169]",
-			"url": "https://olympusbiblioteca.com/series/comic-los-gemelos-baek-20260423-130048819"
 		},
 		{
 			"id": "El bastardo devorador de armas. [Capítulo 81]",
@@ -151,11 +191,6 @@
 			"id": "entrenador de clases [Capítulo 160]",
 			"title": "entrenador de clases [Capítulo 160]",
 			"url": "https://olympusbiblioteca.com/series/comic-entrenador-de-clases-20260423-130038685"
-		},
-		{
-			"id": "Voy a Aniquilar Esta Tierra [Capítulo 73]",
-			"title": "Voy a Aniquilar Esta Tierra [Capítulo 73]",
-			"url": "https://olympusbiblioteca.com/series/comic-voy-a-an10-05-2025-tierra"
 		},
 		{
 			"id": "Jugador devorador de artefactos [Capítulo 37]",
@@ -2466,41 +2501,6 @@
 			"id": "Colorista [Capítulo 26]",
 			"title": "Colorista [Capítulo 26]",
 			"url": "https://olympusbiblioteca.com/series/comic-colorista-20260403-131110404"
-		},
-		{
-			"id": "El Perro Loco de la Mansión del Duque [Capítulo 52]",
-			"title": "El Perro Loco de la Mansión del Duque [Capítulo 52]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-perro-loco-de-la-mansion-del-duque"
-		},
-		{
-			"id": "El Psicópata del Murim [Capítulo 20]",
-			"title": "El Psicópata del Murim [Capítulo 20]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-psicopata-del-murim-20260403-131243865"
-		},
-		{
-			"id": "Regresando al Otro Mundo una vez mas. [Capítulo 136]",
-			"title": "Regresando al Otro Mundo una vez mas. [Capítulo 136]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresando-al-otro-mundo-una-vez-mas-20260403-130358857"
-		},
-		{
-			"id": "El Rey Supremo de Sichuan [Capítulo 13]",
-			"title": "El Rey Supremo de Sichuan [Capítulo 13]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-supremo-de-sichuan-20260404-131254050"
-		},
-		{
-			"id": "La Ascensión Marcial del Dios Demonio [Capítulo 157]",
-			"title": "La Ascensión Marcial del Dios Demonio [Capítulo 157]",
-			"url": "https://olympusbiblioteca.com/series/comic-dis-m10-05-2025arcial-2013424"
-		},
-		{
-			"id": "El Rey Supremo de Sichuan [Capítulo 12]",
-			"title": "El Rey Supremo de Sichuan [Capítulo 12]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-supremo-de-sichuan-20260404-131254050"
-		},
-		{
-			"id": "El Herrero Genio del Juego [Capítulo 48]",
-			"title": "El Herrero Genio del Juego [Capítulo 48]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-herrero-genio-del-juego"
 		}
 	]
 }
