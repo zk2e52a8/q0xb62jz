@@ -3,6 +3,21 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Lider Kim [Capítulo 236]",
+			"title": "Lider Kim [Capítulo 236]",
+			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20260424-130340469"
+		},
+		{
+			"id": "Restaurante del mago [Capítulo 130]",
+			"title": "Restaurante del mago [Capítulo 130]",
+			"url": "https://olympusbiblioteca.com/series/comic-restaurante-del-mago-20260424-130326550"
+		},
+		{
+			"id": "Jugador devorador de artefactos [Capítulo 38]",
+			"title": "Jugador devorador de artefactos [Capítulo 38]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugador-devorador-de-artefactos-20260424-130335166"
+		},
+		{
 			"id": "Jugador de la noble familia caída [Capítulo 42]",
 			"title": "Jugador de la noble familia caída [Capítulo 42]",
 			"url": "https://olympusbiblioteca.com/series/comic-jugador-de-la-noble-familia-caida"
@@ -73,11 +88,6 @@
 			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20260424-130351638"
 		},
 		{
-			"id": "Jugador devorador de artefactos [Capítulo 37]",
-			"title": "Jugador devorador de artefactos [Capítulo 37]",
-			"url": "https://olympusbiblioteca.com/series/comic-jugador-devorador-de-artefactos-20260424-130335166"
-		},
-		{
 			"id": "Regresión del bastardo del clan de la espada [Capítulo 92]",
 			"title": "Regresión del bastardo del clan de la espada [Capítulo 92]",
 			"url": "https://olympusbiblioteca.com/series/comic-regresion10-05-20250152309"
@@ -141,6 +151,11 @@
 			"id": "entrenador de clases [Capítulo 160]",
 			"title": "entrenador de clases [Capítulo 160]",
 			"url": "https://olympusbiblioteca.com/series/comic-entrenador-de-clases-20260423-130038685"
+		},
+		{
+			"id": "Jugador devorador de artefactos [Capítulo 37]",
+			"title": "Jugador devorador de artefactos [Capítulo 37]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugador-devorador-de-artefactos-20260424-130335166"
 		},
 		{
 			"id": "Hijos de la Runa [Capítulo 57]",
@@ -2486,21 +2501,6 @@
 			"id": "La evolución de la serpiente inmortal [Capítulo 82]",
 			"title": "La evolución de la serpiente inmortal [Capítulo 82]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-evolucion-de-la-serpiente-inmortal"
-		},
-		{
-			"id": "El Dios Demonio [Capítulo 25]",
-			"title": "El Dios Demonio [Capítulo 25]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-demonio"
-		},
-		{
-			"id": "toxicólogo del clan tang de sichuan [Capítulo 81]",
-			"title": "toxicólogo del clan tang de sichuan [Capítulo 81]",
-			"url": "https://olympusbiblioteca.com/series/comic-toxicologo-del-clan-tang-de-sichuan-20260403-130550693"
-		},
-		{
-			"id": "El Devoto Caballero [Capítulo 158]",
-			"title": "El Devoto Caballero [Capítulo 158]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-devoto-caballero-20260403-130936793"
 		}
 	]
 }
