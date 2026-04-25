@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómo criar villanos correctamente [Capítulo 32]",
+			"title": "Cómo criar villanos correctamente [Capítulo 32]",
+			"url": "https://olympusbiblioteca.com/series/comic-como-criar-villanos-correctamente-20260425-130112956"
+		},
+		{
 			"id": "Lider Kim [Capítulo 236]",
 			"title": "Lider Kim [Capítulo 236]",
 			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20260424-130340469"
@@ -71,11 +76,6 @@
 			"id": "El renacimiento del Demonio Divino [Capítulo 28]",
 			"title": "El renacimiento del Demonio Divino [Capítulo 28]",
 			"url": "https://olympusbiblioteca.com/series/comic-1el-renacimiento-del-demonio-divino"
-		},
-		{
-			"id": "Voy a Aniquilar Esta Tierra [Capítulo 73]",
-			"title": "Voy a Aniquilar Esta Tierra [Capítulo 73]",
-			"url": "https://olympusbiblioteca.com/series/comic-voy-a-an10-05-2025-tierra"
 		},
 		{
 			"id": "Actúe como un jefecito final, Sr. devorador [Capítulo 123]",
@@ -151,6 +151,11 @@
 			"id": "entrenador de clases [Capítulo 160]",
 			"title": "entrenador de clases [Capítulo 160]",
 			"url": "https://olympusbiblioteca.com/series/comic-entrenador-de-clases-20260423-130038685"
+		},
+		{
+			"id": "Voy a Aniquilar Esta Tierra [Capítulo 73]",
+			"title": "Voy a Aniquilar Esta Tierra [Capítulo 73]",
+			"url": "https://olympusbiblioteca.com/series/comic-voy-a-an10-05-2025-tierra"
 		},
 		{
 			"id": "Jugador devorador de artefactos [Capítulo 37]",
@@ -2496,11 +2501,6 @@
 			"id": "El Herrero Genio del Juego [Capítulo 48]",
 			"title": "El Herrero Genio del Juego [Capítulo 48]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-herrero-genio-del-juego"
-		},
-		{
-			"id": "La evolución de la serpiente inmortal [Capítulo 82]",
-			"title": "La evolución de la serpiente inmortal [Capítulo 82]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-evolucion-de-la-serpiente-inmortal"
 		}
 	]
 }
