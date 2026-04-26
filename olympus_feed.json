@@ -3,6 +3,46 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Un héroe que sabe lo que hace [Capítulo 24]",
+			"title": "Un héroe que sabe lo que hace [Capítulo 24]",
+			"url": "https://olympusbiblioteca.com/series/comic-un-heroe-que-sabe-lo-que-hace"
+		},
+		{
+			"id": "El Troll más fuerte del mundo [Capítulo 176]",
+			"title": "El Troll más fuerte del mundo [Capítulo 176]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-troll-mas-fuerte-del-mundo-20260426-130043037"
+		},
+		{
+			"id": "Villano antihéroe [Capítulo 226]",
+			"title": "Villano antihéroe [Capítulo 226]",
+			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe-20260426-130103900"
+		},
+		{
+			"id": "Mi Evolución a Partir de un Árbol Gigante [Capítulo 514]",
+			"title": "Mi Evolución a Partir de un Árbol Gigante [Capítulo 514]",
+			"url": "https://olympusbiblioteca.com/series/comic-arbol-mamv20-225-adisimo77213124"
+		},
+		{
+			"id": "La vida del cazador de clase S entre monstruos [Capítulo 44]",
+			"title": "La vida del cazador de clase S entre monstruos [Capítulo 44]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-cazador-de-clase-s-entre-monstruos-20260426-130115956"
+		},
+		{
+			"id": "El último aventurero [Capítulo 118]",
+			"title": "El último aventurero [Capítulo 118]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-ultimo-aventurero-20260426-130045887"
+		},
+		{
+			"id": "El Genio Marcial que lo Recuerda Todo [Capítulo 5]",
+			"title": "El Genio Marcial que lo Recuerda Todo [Capítulo 5]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-genio-marcial-que-lo-recuerda-todo"
+		},
+		{
+			"id": "Subiendo de nivel con las mejores habilidades [Capítulo 146]",
+			"title": "Subiendo de nivel con las mejores habilidades [Capítulo 146]",
+			"url": "https://olympusbiblioteca.com/series/comic-s20-225-evel-mejores-221r1234"
+		},
+		{
 			"id": "El Héroe Regresa a la Academia [Capítulo 49]",
 			"title": "El Héroe Regresa a la Academia [Capítulo 49]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-regresa-a-la-academia-20260426-130117343"
@@ -2461,46 +2501,6 @@
 			"id": "Yo mate al jugador de la Academia [Capítulo 117]",
 			"title": "Yo mate al jugador de la Academia [Capítulo 117]",
 			"url": "https://olympusbiblioteca.com/series/comic-yo-mate-al-jugador-de-la-academia-20260405-130333722"
-		},
-		{
-			"id": "El mago oscuro reencarna Después De 66666 años [Capítulo 164]",
-			"title": "El mago oscuro reencarna Después De 66666 años [Capítulo 164]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago-oscuro-reencarna-despues-de-66666-anos-20260405-131100637"
-		},
-		{
-			"id": "Desperte como un Dios después de batallar en solitario durante un millón de años [Capítulo 66]",
-			"title": "Desperte como un Dios después de batallar en solitario durante un millón de años [Capítulo 66]",
-			"url": "https://olympusbiblioteca.com/series/comic-desperte-10-05-2025e-un-millon-de-anos"
-		},
-		{
-			"id": "Regresión del bastardo del clan de la espada [Capítulo 89]",
-			"title": "Regresión del bastardo del clan de la espada [Capítulo 89]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresion10-05-20250152309"
-		},
-		{
-			"id": "El Resucitado no Puede Morir [Capítulo 16]",
-			"title": "El Resucitado no Puede Morir [Capítulo 16]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-resucitado-no-puede-morir-20260404-131330397"
-		},
-		{
-			"id": "Loco Murim [Capítulo 191]",
-			"title": "Loco Murim [Capítulo 191]",
-			"url": "https://olympusbiblioteca.com/series/comic-loco-murim-20260405-130254892"
-		},
-		{
-			"id": "Restaurante del mago [Capítulo 126]",
-			"title": "Restaurante del mago [Capítulo 126]",
-			"url": "https://olympusbiblioteca.com/series/comic-restaurante-del-mago-20260404-130336006"
-		},
-		{
-			"id": "El príncipe heredero que vende medicina [Capítulo 100]",
-			"title": "El príncipe heredero que vende medicina [Capítulo 100]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-principe-heredero-que-vende-medicina-20260404-130259704"
-		},
-		{
-			"id": "El legendario prodigio del ducado [Capítulo 42]",
-			"title": "El legendario prodigio del ducado [Capítulo 42]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado"
 		}
 	]
 }
