@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Sangre Maldita [Capítulo 83]",
+			"title": "Sangre Maldita [Capítulo 83]",
+			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20260426-130052085"
+		},
+		{
 			"id": "El guerrero despiadado [Capítulo 51]",
 			"title": "El guerrero despiadado [Capítulo 51]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado-20260426-130110697"
@@ -2496,11 +2501,6 @@
 			"id": "La Guía Definitiva del Extra de Nivel Dios (Remake) [Capítulo 50]",
 			"title": "La Guía Definitiva del Extra de Nivel Dios (Remake) [Capítulo 50]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-guia-definitiva-del-extra-de-nivel-dios-remake"
-		},
-		{
-			"id": "Amigo de la Infancia del Zenit [Capítulo 101]",
-			"title": "Amigo de la Infancia del Zenit [Capítulo 101]",
-			"url": "https://olympusbiblioteca.com/series/comic-amigo-de20-225-e-zenith"
 		}
 	]
 }
