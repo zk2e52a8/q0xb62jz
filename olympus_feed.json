@@ -3,6 +3,21 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Deuda de Sangre [Capítulo 22]",
+			"title": "Deuda de Sangre [Capítulo 22]",
+			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre-20260427-130215699"
+		},
+		{
+			"id": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 14]",
+			"title": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 14]",
+			"url": "https://olympusbiblioteca.com/series/comic-guia-de-supervivencia-del-cazador-de-bestias-demoniacas-20260427-130216754"
+		},
+		{
+			"id": "El heroe de nivel legendario prodigio de la academia. [Capítulo 80]",
+			"title": "El heroe de nivel legendario prodigio de la academia. [Capítulo 80]",
+			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025rio-prodigio-de-la-academia"
+		},
+		{
 			"id": "Torre de Dios : Urek Mazino [Capítulo 60]",
 			"title": "Torre de Dios : Urek Mazino [Capítulo 60]",
 			"url": "https://olympusbiblioteca.com/series/comic-torre-de-dios-urek-mazino-20260427-130150682"
@@ -41,11 +56,6 @@
 			"id": "Guía de estrategia de un cobarde para conquistar la torre [Capítulo 24]",
 			"title": "Guía de estrategia de un cobarde para conquistar la torre [Capítulo 24]",
 			"url": "https://olympusbiblioteca.com/series/comic-guia-de-estrategia-de-un-cobarde-para-conquistar-la-torre-20260427-130211566"
-		},
-		{
-			"id": "El heroe de nivel legendario prodigio de la academia. [Capítulo 79]",
-			"title": "El heroe de nivel legendario prodigio de la academia. [Capítulo 79]",
-			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025rio-prodigio-de-la-academia"
 		},
 		{
 			"id": "Sangre Maldita [Capítulo 83]",
@@ -141,6 +151,11 @@
 			"id": "El Héroe Regresa a la Academia [Capítulo 49]",
 			"title": "El Héroe Regresa a la Academia [Capítulo 49]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-regresa-a-la-academia-20260426-130117343"
+		},
+		{
+			"id": "El heroe de nivel legendario prodigio de la academia. [Capítulo 79]",
+			"title": "El heroe de nivel legendario prodigio de la academia. [Capítulo 79]",
+			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025rio-prodigio-de-la-academia"
 		},
 		{
 			"id": "El jugador que no puede subir de nivel [Capítulo 226]",
@@ -2486,21 +2501,6 @@
 			"id": "Loco Murim [Capítulo 192.05]",
 			"title": "Loco Murim [Capítulo 192.05]",
 			"url": "https://olympusbiblioteca.com/series/comic-loco-murim-20260405-130254892"
-		},
-		{
-			"id": "El Regreso Del Genio De Las Artes Marciales [Capítulo 132]",
-			"title": "El Regreso Del Genio De Las Artes Marciales [Capítulo 132]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-genio-de-las-artes-marciales-20260405-130235298"
-		},
-		{
-			"id": "El dinero del Lord no disminuye [Capítulo 201]",
-			"title": "El dinero del Lord no disminuye [Capítulo 201]",
-			"url": "https://olympusbiblioteca.com/series/comic-lordin12410-05-2025124124124"
-		},
-		{
-			"id": "Regreso del ranker de clase SSS [Capítulo 185]",
-			"title": "Regreso del ranker de clase SSS [Capítulo 185]",
-			"url": "https://olympusbiblioteca.com/series/comic-regr20-225-eso-del-ranker-de-clase-ss13424"
 		}
 	]
 }
