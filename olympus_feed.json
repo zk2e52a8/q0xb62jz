@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Villano antihéroe [Capítulo 230]",
+			"title": "Villano antihéroe [Capítulo 230]",
+			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe-20260427-130159294"
+		},
+		{
+			"id": "La vida del cazador de clase S entre monstruos [Capítulo 45]",
+			"title": "La vida del cazador de clase S entre monstruos [Capítulo 45]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-cazador-de-clase-s-entre-monstruos-20260427-130212223"
+		},
+		{
+			"id": "El heroe de nivel legendario prodigio de la academia. [Capítulo 82]",
+			"title": "El heroe de nivel legendario prodigio de la academia. [Capítulo 82]",
+			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025rio-prodigio-de-la-academia"
+		},
+		{
+			"id": "Jugador de nivel máximo [Capítulo 136]",
+			"title": "Jugador de nivel máximo [Capítulo 136]",
+			"url": "https://olympusbiblioteca.com/series/comic-jug20-225-olympus513424"
+		},
+		{
+			"id": "Crónicas de un Inmortal [Capítulo 9]",
+			"title": "Crónicas de un Inmortal [Capítulo 9]",
+			"url": "https://olympusbiblioteca.com/series/comic-cronicas-de-un-inmortal-20260427-130218087"
+		},
+		{
+			"id": "El príncipe heredero que vende medicina [Capítulo 104]",
+			"title": "El príncipe heredero que vende medicina [Capítulo 104]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-principe-heredero-que-vende-medicina-20260427-130137281"
+		},
+		{
 			"id": "Deuda de Sangre [Capítulo 22]",
 			"title": "Deuda de Sangre [Capítulo 22]",
 			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre-20260427-130215699"
@@ -11,11 +41,6 @@
 			"id": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 14]",
 			"title": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 14]",
 			"url": "https://olympusbiblioteca.com/series/comic-guia-de-supervivencia-del-cazador-de-bestias-demoniacas-20260427-130216754"
-		},
-		{
-			"id": "El heroe de nivel legendario prodigio de la academia. [Capítulo 80]",
-			"title": "El heroe de nivel legendario prodigio de la academia. [Capítulo 80]",
-			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025rio-prodigio-de-la-academia"
 		},
 		{
 			"id": "Torre de Dios : Urek Mazino [Capítulo 60]",
@@ -48,11 +73,6 @@
 			"url": "https://olympusbiblioteca.com/series/comic-el-ext20-225-ra-de-la-novela-remake13424"
 		},
 		{
-			"id": "Jugador de nivel máximo [Capítulo 136]",
-			"title": "Jugador de nivel máximo [Capítulo 136]",
-			"url": "https://olympusbiblioteca.com/series/comic-jug20-225-olympus513424"
-		},
-		{
 			"id": "Guía de estrategia de un cobarde para conquistar la torre [Capítulo 24]",
 			"title": "Guía de estrategia de un cobarde para conquistar la torre [Capítulo 24]",
 			"url": "https://olympusbiblioteca.com/series/comic-guia-de-estrategia-de-un-cobarde-para-conquistar-la-torre-20260427-130211566"
@@ -76,11 +96,6 @@
 			"id": "Artes Marciales Globales [Capítulo 356]",
 			"title": "Artes Marciales Globales [Capítulo 356]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-m10-05-2025en-de-las-peleas"
-		},
-		{
-			"id": "Villano antihéroe [Capítulo 227]",
-			"title": "Villano antihéroe [Capítulo 227]",
-			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe-20260426-130103900"
 		},
 		{
 			"id": "El hombre más guapo se convirtió en esqueleto [Capítulo 88]",
@@ -128,11 +143,6 @@
 			"url": "https://olympusbiblioteca.com/series/comic-arbol-mamv20-225-adisimo77213124"
 		},
 		{
-			"id": "La vida del cazador de clase S entre monstruos [Capítulo 44]",
-			"title": "La vida del cazador de clase S entre monstruos [Capítulo 44]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-cazador-de-clase-s-entre-monstruos-20260426-130115956"
-		},
-		{
 			"id": "El último aventurero [Capítulo 118]",
 			"title": "El último aventurero [Capítulo 118]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-ultimo-aventurero-20260426-130045887"
@@ -141,6 +151,21 @@
 			"id": "El Genio Marcial que lo Recuerda Todo [Capítulo 5]",
 			"title": "El Genio Marcial que lo Recuerda Todo [Capítulo 5]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-genio-marcial-que-lo-recuerda-todo"
+		},
+		{
+			"id": "El heroe de nivel legendario prodigio de la academia. [Capítulo 80]",
+			"title": "El heroe de nivel legendario prodigio de la academia. [Capítulo 80]",
+			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025rio-prodigio-de-la-academia"
+		},
+		{
+			"id": "Villano antihéroe [Capítulo 227]",
+			"title": "Villano antihéroe [Capítulo 227]",
+			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe-20260426-130103900"
+		},
+		{
+			"id": "La vida del cazador de clase S entre monstruos [Capítulo 44]",
+			"title": "La vida del cazador de clase S entre monstruos [Capítulo 44]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-cazador-de-clase-s-entre-monstruos-20260426-130115956"
 		},
 		{
 			"id": "Subiendo de nivel con las mejores habilidades [Capítulo 146]",
@@ -2476,31 +2501,6 @@
 			"id": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 165]",
 			"title": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 165]",
 			"url": "https://olympusbiblioteca.com/series/comic-cronicas-de-la-faccion-demoniaca-chun-hajin-el-asesino-mas-fuerte-20260405-130946841"
-		},
-		{
-			"id": "Maestro de la espada devorador de espadas [Capítulo 19]",
-			"title": "Maestro de la espada devorador de espadas [Capítulo 19]",
-			"url": "https://olympusbiblioteca.com/series/comic-maestro-de-la-espada-devorador-de-espadas-20260405-131253041"
-		},
-		{
-			"id": "Academia de la Ascensión [Capítulo 193]",
-			"title": "Academia de la Ascensión [Capítulo 193]",
-			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20260405-130313622"
-		},
-		{
-			"id": "El mago oscuro reencarna Después De 66666 años [Capítulo 165]",
-			"title": "El mago oscuro reencarna Después De 66666 años [Capítulo 165]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago-oscuro-reencarna-despues-de-66666-anos-20260405-131100637"
-		},
-		{
-			"id": "El hombre más guapo se convirtió en esqueleto [Capítulo 84]",
-			"title": "El hombre más guapo se convirtió en esqueleto [Capítulo 84]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-hombre-mas-guapo-se-convirtio-en-esqueleto-20260405-130625202"
-		},
-		{
-			"id": "Loco Murim [Capítulo 192.05]",
-			"title": "Loco Murim [Capítulo 192.05]",
-			"url": "https://olympusbiblioteca.com/series/comic-loco-murim-20260405-130254892"
 		}
 	]
 }
