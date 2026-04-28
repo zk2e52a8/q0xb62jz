@@ -3,6 +3,16 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Lider Kim [Capítulo 238]",
+			"title": "Lider Kim [Capítulo 238]",
+			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20260427-130153843"
+		},
+		{
+			"id": "El regreso del mago ilegítimo [Capítulo 44]",
+			"title": "El regreso del mago ilegítimo [Capítulo 44]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-mago-ilegitimo-20260427-130211008"
+		},
+		{
 			"id": "El Stream del Reencarnado [Capítulo 47]",
 			"title": "El Stream del Reencarnado [Capítulo 47]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado-20260427-130212337"
@@ -2491,16 +2501,6 @@
 			"id": "¡La Tanque de Clase C que regresó no muere! [Capítulo 53]",
 			"title": "¡La Tanque de Clase C que regresó no muere! [Capítulo 53]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-tanque-de-clase-c-que-regreso-no-muere-20260406-131429610"
-		},
-		{
-			"id": "Emperador del Juego en Solitario [Capítulo 54]",
-			"title": "Emperador del Juego en Solitario [Capítulo 54]",
-			"url": "https://olympusbiblioteca.com/series/comic-emperador-del-juego-en-solitario-20260406-130723424"
-		},
-		{
-			"id": "El Joven Maestro del Gran Archivo Celestial [Capítulo 167]",
-			"title": "El Joven Maestro del Gran Archivo Celestial [Capítulo 167]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-joven-maestro-del-gran-archivo-celestial-20260406-130817076"
 		}
 	]
 }
