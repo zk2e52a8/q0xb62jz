@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Sentido Absoluto de las Espadas [Capítulo 178]",
+			"title": "El Sentido Absoluto de las Espadas [Capítulo 178]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-sentido-absoluto-de-las-espadas-20260429-130402988"
+		},
+		{
 			"id": "Odisea en la Mazmorra [Capítulo 158]",
 			"title": "Odisea en la Mazmorra [Capítulo 158]",
 			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424"
@@ -2496,11 +2501,6 @@
 			"id": "El Retorno del Patriarca Mil Años Después [Capítulo 34]",
 			"title": "El Retorno del Patriarca Mil Años Después [Capítulo 34]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-retorno-del-patriarca-mil-anos-despues"
-		},
-		{
-			"id": "Regresión absoluta [Capítulo 96]",
-			"title": "Regresión absoluta [Capítulo 96]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta-20260407-130527835"
 		}
 	]
 }
