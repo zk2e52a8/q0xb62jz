@@ -3,6 +3,16 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Odisea en la Mazmorra [Capítulo 158]",
+			"title": "Odisea en la Mazmorra [Capítulo 158]",
+			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424"
+		},
+		{
+			"id": "el bully de bullies [Capítulo 182]",
+			"title": "el bully de bullies [Capítulo 182]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-bully-de-bullies-20260428-130038509"
+		},
+		{
 			"id": "Crónicas del Retorno del Dios Marcial [Capítulo 158]",
 			"title": "Crónicas del Retorno del Dios Marcial [Capítulo 158]",
 			"url": "https://olympusbiblioteca.com/series/comic-cronica20-225-os-marcial13424"
@@ -2491,16 +2501,6 @@
 			"id": "Regresión absoluta [Capítulo 96]",
 			"title": "Regresión absoluta [Capítulo 96]",
 			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta-20260407-130527835"
-		},
-		{
-			"id": "Rayito [Capítulo 396]",
-			"title": "Rayito [Capítulo 396]",
-			"url": "https://olympusbiblioteca.com/series/comic-rayito-20260407-131025553"
-		},
-		{
-			"id": "El Rey demonio tiene 18 años [Capítulo 34]",
-			"title": "El Rey demonio tiene 18 años [Capítulo 34]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-tiene-18-anos"
 		}
 	]
 }
