@@ -3,19 +3,39 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
-			"id": "Regreso del ranker de clase SSS [Capítulo 189]",
-			"title": "Regreso del ranker de clase SSS [Capítulo 189]",
-			"url": "https://olympusbiblioteca.com/series/comic-regr20-225-eso-del-ranker-de-clase-ss13424"
+			"id": "Un hombre moderno que transmigró al mundo murim [Capítulo 176]",
+			"title": "Un hombre moderno que transmigró al mundo murim [Capítulo 176]",
+			"url": "https://olympusbiblioteca.com/series/comic-un-hombre-moderno-que-transmigro-al-mundo-murim-20260428-130058761"
 		},
 		{
-			"id": "Creador de Finales [Capítulo 69]",
-			"title": "Creador de Finales [Capítulo 69]",
+			"id": "El mago pastor [Capítulo 17]",
+			"title": "El mago pastor [Capítulo 17]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago-pastor-20260428-130102935"
+		},
+		{
+			"id": "Creador de Finales [Capítulo 70]",
+			"title": "Creador de Finales [Capítulo 70]",
 			"url": "https://olympusbiblioteca.com/series/comic-no-e10-05-2025itas5313424"
 		},
 		{
 			"id": "El maestro de la espada acogedor de estrellas [Capítulo 120]",
 			"title": "El maestro de la espada acogedor de estrellas [Capítulo 120]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-acogedor-de-estrellas-20260428-130021330"
+		},
+		{
+			"id": "El Retorno del Patriarca Mil Años Después [Capítulo 37]",
+			"title": "El Retorno del Patriarca Mil Años Después [Capítulo 37]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-retorno-del-patriarca-mil-anos-despues"
+		},
+		{
+			"id": "Grupo de Estudio [Capítulo 315]",
+			"title": "Grupo de Estudio [Capítulo 315]",
+			"url": "https://olympusbiblioteca.com/series/comic-grupo-de-estudio-20260428-130047124"
+		},
+		{
+			"id": "Regreso del ranker de clase SSS [Capítulo 189]",
+			"title": "Regreso del ranker de clase SSS [Capítulo 189]",
+			"url": "https://olympusbiblioteca.com/series/comic-regr20-225-eso-del-ranker-de-clase-ss13424"
 		},
 		{
 			"id": "Academia de la Ascensión [Capítulo 196]",
@@ -78,6 +98,11 @@
 			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20260427-130153843"
 		},
 		{
+			"id": "El regreso del mago ilegítimo [Capítulo 44]",
+			"title": "El regreso del mago ilegítimo [Capítulo 44]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-mago-ilegitimo-20260427-130211008"
+		},
+		{
 			"id": "El Stream del Reencarnado [Capítulo 47]",
 			"title": "El Stream del Reencarnado [Capítulo 47]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado-20260427-130212337"
@@ -128,6 +153,11 @@
 			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre-20260427-130215699"
 		},
 		{
+			"id": "Creador de Finales [Capítulo 69]",
+			"title": "Creador de Finales [Capítulo 69]",
+			"url": "https://olympusbiblioteca.com/series/comic-no-e10-05-2025itas5313424"
+		},
+		{
 			"id": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 14]",
 			"title": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 14]",
 			"url": "https://olympusbiblioteca.com/series/comic-guia-de-supervivencia-del-cazador-de-bestias-demoniacas-20260427-130216754"
@@ -156,11 +186,6 @@
 			"id": "Creador de Finales [Capítulo 68]",
 			"title": "Creador de Finales [Capítulo 68]",
 			"url": "https://olympusbiblioteca.com/series/comic-no-e10-05-2025itas5313424"
-		},
-		{
-			"id": "El regreso del mago ilegítimo [Capítulo 44]",
-			"title": "El regreso del mago ilegítimo [Capítulo 44]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-mago-ilegitimo-20260427-130211008"
 		},
 		{
 			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 114]",
@@ -2476,31 +2501,6 @@
 			"id": "El mago pastor [Capítulo 14]",
 			"title": "El mago pastor [Capítulo 14]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mago-pastor-20260406-131415778"
-		},
-		{
-			"id": "Jugador de nivel máximo [Capítulo 134]",
-			"title": "Jugador de nivel máximo [Capítulo 134]",
-			"url": "https://olympusbiblioteca.com/series/comic-jug20-225-olympus513424"
-		},
-		{
-			"id": "El Arma Definitiva que Regreso tras 100 millones de años [Capítulo 20]",
-			"title": "El Arma Definitiva que Regreso tras 100 millones de años [Capítulo 20]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-arma-definitiva-que-regreso-tras-100-millones-de-anos"
-		},
-		{
-			"id": "*El asesino que retornó como el hijo del duque [Capítulo 121]",
-			"title": "*El asesino que retornó como el hijo del duque [Capítulo 121]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-que-retorno-como-el-hijo-del-duque-20260406-130431407"
-		},
-		{
-			"id": "Sangre Maldita [Capítulo 79]",
-			"title": "Sangre Maldita [Capítulo 79]",
-			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20260407-130620618"
-		},
-		{
-			"id": "El demonio celestial quiere una vida tranquila [Capítulo 71]",
-			"title": "El demonio celestial quiere una vida tranquila [Capítulo 71]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-demonio-celestial-quiere-una-vida-tranquila-20260407-130624594"
 		}
 	]
 }
