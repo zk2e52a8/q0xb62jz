@@ -3,6 +3,26 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "entrenador de clases [Capítulo 161]",
+			"title": "entrenador de clases [Capítulo 161]",
+			"url": "https://olympusbiblioteca.com/series/comic-entrenador-de-clases-20260429-130418683"
+		},
+		{
+			"id": "Mata Villanos [Capítulo 53]",
+			"title": "Mata Villanos [Capítulo 53]",
+			"url": "https://olympusbiblioteca.com/series/comic-mata-villanos-20260429-130414439"
+		},
+		{
+			"id": "La Guía Definitiva del Extra de Nivel Dios (Remake) [Capítulo 54]",
+			"title": "La Guía Definitiva del Extra de Nivel Dios (Remake) [Capítulo 54]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-guia-definitiva-del-extra-de-nivel-dios-remake"
+		},
+		{
+			"id": "Lider Kim [Capítulo 239]",
+			"title": "Lider Kim [Capítulo 239]",
+			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20260429-130421162"
+		},
+		{
 			"id": "El Resucitado no Puede Morir [Capítulo 19]",
 			"title": "El Resucitado no Puede Morir [Capítulo 19]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-resucitado-no-puede-morir-20260429-130444195"
@@ -31,11 +51,6 @@
 			"id": "Mi Vida Cuidando Dragonas [Capítulo 40]",
 			"title": "Mi Vida Cuidando Dragonas [Capítulo 40]",
 			"url": "https://olympusbiblioteca.com/series/comic-mi-vida-cuidando-dragonas-20260429-130434748"
-		},
-		{
-			"id": "Mata Villanos [Capítulo 51]",
-			"title": "Mata Villanos [Capítulo 51]",
-			"url": "https://olympusbiblioteca.com/series/comic-mata-villanos-20260429-130414439"
 		},
 		{
 			"id": "Pick me up, Gacha Infinito [Capítulo 199]",
@@ -136,6 +151,11 @@
 			"id": "Palo De Madera [Capítulo 186.2]",
 			"title": "Palo De Madera [Capítulo 186.2]",
 			"url": "https://olympusbiblioteca.com/series/comic-palo-de-madera-20260428-130043878"
+		},
+		{
+			"id": "Mata Villanos [Capítulo 51]",
+			"title": "Mata Villanos [Capítulo 51]",
+			"url": "https://olympusbiblioteca.com/series/comic-mata-villanos-20260429-130414439"
 		},
 		{
 			"id": "Ranker Salvaje [Capítulo 53]",
@@ -2481,26 +2501,6 @@
 			"id": "Ecos del Mundo Invertido [Capítulo 28]",
 			"title": "Ecos del Mundo Invertido [Capítulo 28]",
 			"url": "https://olympusbiblioteca.com/series/comic-ecos-del-mundo-invertido"
-		},
-		{
-			"id": "Sangre Maldita [Capítulo 80]",
-			"title": "Sangre Maldita [Capítulo 80]",
-			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20260413-130426578"
-		},
-		{
-			"id": "Item Chetado [Capítulo 174]",
-			"title": "Item Chetado [Capítulo 174]",
-			"url": "https://olympusbiblioteca.com/series/comic-item-chetado-20260413-130617236"
-		},
-		{
-			"id": "Crónicas del Retorno del Dios Marcial [Capítulo 155.5]",
-			"title": "Crónicas del Retorno del Dios Marcial [Capítulo 155.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-cronica20-225-os-marcial13424"
-		},
-		{
-			"id": "El gran demonio celestial soberano [Capítulo 47.5]",
-			"title": "El gran demonio celestial soberano [Capítulo 47.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-gran-demonio-celestial-soberano"
 		}
 	]
 }
