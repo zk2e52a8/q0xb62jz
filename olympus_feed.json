@@ -3,6 +3,16 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Mago de Decima Clase [Capítulo 7]",
+			"title": "El Mago de Decima Clase [Capítulo 7]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago-de-decima-clase"
+		},
+		{
+			"id": "La regresión del eunuco para recuperar su hombría [Capítulo 73]",
+			"title": "La regresión del eunuco para recuperar su hombría [Capítulo 73]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-regresion-del-eunuco-para-recuperar-su-hombria-20260429-130439645"
+		},
+		{
 			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 68]",
 			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 68]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis"
@@ -2491,16 +2501,6 @@
 			"id": "El Psicópata del Murim [Capítulo 21]",
 			"title": "El Psicópata del Murim [Capítulo 21]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-psicopata-del-murim-20260413-131135504"
-		},
-		{
-			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 229]",
-			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 229]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mundo-despues-del-fin-20260413-130045082"
-		},
-		{
-			"id": "El Stream del Reencarnado [Capítulo 44]",
-			"title": "El Stream del Reencarnado [Capítulo 44]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado-20260413-131058956"
 		}
 	]
 }
