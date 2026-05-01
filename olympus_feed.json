@@ -3,6 +3,31 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Creador de Finales [Capítulo 71]",
+			"title": "Creador de Finales [Capítulo 71]",
+			"url": "https://olympusbiblioteca.com/series/comic-no-e10-05-2025itas5313424"
+		},
+		{
+			"id": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 15]",
+			"title": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 15]",
+			"url": "https://olympusbiblioteca.com/series/comic-guia-de-supervivencia-del-cazador-de-bestias-demoniacas-20260501-080250179"
+		},
+		{
+			"id": "Actúe como un jefecito final, Sr. devorador [Capítulo 124]",
+			"title": "Actúe como un jefecito final, Sr. devorador [Capítulo 124]",
+			"url": "https://olympusbiblioteca.com/series/comic-actue-com20-225-l-sr-devorador"
+		},
+		{
+			"id": "Mestizo [Capítulo 47]",
+			"title": "Mestizo [Capítulo 47]",
+			"url": "https://olympusbiblioteca.com/series/comic-mestizo"
+		},
+		{
+			"id": "El bastardo devorador de armas. [Capítulo 82]",
+			"title": "El bastardo devorador de armas. [Capítulo 82]",
+			"url": "https://olympusbiblioteca.com/series/comic-o5324evorador-de-armas"
+		},
+		{
 			"id": "Ingeniero de Laberintos de Rango Nacional [Capítulo 16]",
 			"title": "Ingeniero de Laberintos de Rango Nacional [Capítulo 16]",
 			"url": "https://olympusbiblioteca.com/series/comic-ingeniero-de-laberintos-de-rango-nacional"
@@ -51,11 +76,6 @@
 			"id": "El último aventurero [Capítulo 120]",
 			"title": "El último aventurero [Capítulo 120]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-ultimo-aventurero-20260430-130456238"
-		},
-		{
-			"id": "El Joven Heredero de la Familia de Nigromantes [Capítulo 61]",
-			"title": "El Joven Heredero de la Familia de Nigromantes [Capítulo 61]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-joven-heredero-de-la-familia-de-nigromantes-20260430-130505160"
 		},
 		{
 			"id": "Tengo la guía exclusiva de la torre [Capítulo 116]",
@@ -131,6 +151,11 @@
 			"id": "Regresión del bastardo del clan de la espada [Capítulo 93]",
 			"title": "Regresión del bastardo del clan de la espada [Capítulo 93]",
 			"url": "https://olympusbiblioteca.com/series/comic-regresion10-05-20250152309"
+		},
+		{
+			"id": "El Joven Heredero de la Familia de Nigromantes [Capítulo 61]",
+			"title": "El Joven Heredero de la Familia de Nigromantes [Capítulo 61]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-joven-heredero-de-la-familia-de-nigromantes-20260430-130505160"
 		},
 		{
 			"id": "Item Chetado [Capítulo 176]",
@@ -2476,31 +2501,6 @@
 			"id": "La evolución de la serpiente inmortal [Capítulo 83]",
 			"title": "La evolución de la serpiente inmortal [Capítulo 83]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-evolucion-de-la-serpiente-inmortal"
-		},
-		{
-			"id": "Academia de la Ascensión [Capítulo 194]",
-			"title": "Academia de la Ascensión [Capítulo 194]",
-			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20260413-130123937"
-		},
-		{
-			"id": "Mi Invocación es de Clase EX [Capítulo 20.1]",
-			"title": "Mi Invocación es de Clase EX [Capítulo 20.1]",
-			"url": "https://olympusbiblioteca.com/series/comic-mi-invocacion-es-de-clase-ex"
-		},
-		{
-			"id": "El Mago Genio Destructor de Límites [Capítulo 52]",
-			"title": "El Mago Genio Destructor de Límites [Capítulo 52]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20260413-130919846"
-		},
-		{
-			"id": "¡Que abundante cosecha, señor demonio! [Capítulo 62]",
-			"title": "¡Que abundante cosecha, señor demonio! [Capítulo 62]",
-			"url": "https://olympusbiblioteca.com/series/comic-que-abundante-cosecha-senor-demonio-20260413-130507807"
-		},
-		{
-			"id": "Guia de supervivencia del extra de la academia [Capítulo 101]",
-			"title": "Guia de supervivencia del extra de la academia [Capítulo 101]",
-			"url": "https://olympusbiblioteca.com/series/comic-guia-de-supervivencia-del-extra-de-la-academia-20260413-130202233"
 		}
 	]
 }
