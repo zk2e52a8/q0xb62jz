@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Regresión absoluta [Capítulo 99]",
+			"title": "Regresión absoluta [Capítulo 99]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta-20260430-130458945"
+		},
+		{
 			"id": "Los gemelos Baek [Capítulo 170]",
 			"title": "Los gemelos Baek [Capítulo 170]",
 			"url": "https://olympusbiblioteca.com/series/comic-los-gemelos-baek-20260430-130519366"
@@ -2496,11 +2501,6 @@
 			"id": "Sistema de cultivo del demonio celestial [Capítulo 172]",
 			"title": "Sistema de cultivo del demonio celestial [Capítulo 172]",
 			"url": "https://olympusbiblioteca.com/series/comic-sistema-de-cultivo-del-demonio-celestial-20260413-130142186"
-		},
-		{
-			"id": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 150]",
-			"title": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 150]",
-			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-al-juego-siendo-un-barbaro-bjorn-el-barbaro-20260413-130812100"
 		}
 	]
 }
