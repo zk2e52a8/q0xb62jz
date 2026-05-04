@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Héroe Regresa a la Academia [Capítulo 50]",
+			"title": "El Héroe Regresa a la Academia [Capítulo 50]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-regresa-a-la-academia-20260504-080410350"
+		},
+		{
 			"id": "El sobreviviente más fuerte del mundo [Capítulo 29]",
 			"title": "El sobreviviente más fuerte del mundo [Capítulo 29]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-sobreviviente-mas-fuerte-del-mundo-20260503-080343763"
@@ -2496,11 +2501,6 @@
 			"id": "El Perro Loco de la Mansión del Duque [Capítulo 53]",
 			"title": "El Perro Loco de la Mansión del Duque [Capítulo 53]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-perro-loco-de-la-mansion-del-duque"
-		},
-		{
-			"id": "La Guía Definitiva del Extra de Nivel Dios (Remake) [Capítulo 52]",
-			"title": "La Guía Definitiva del Extra de Nivel Dios (Remake) [Capítulo 52]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-guia-definitiva-del-extra-de-nivel-dios-remake"
 		}
 	]
 }
