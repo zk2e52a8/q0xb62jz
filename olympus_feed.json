@@ -3,6 +3,31 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "La Guía Definitiva del Extra de Nivel Dios (Remake) [Capítulo 55]",
+			"title": "La Guía Definitiva del Extra de Nivel Dios (Remake) [Capítulo 55]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-guia-definitiva-del-extra-de-nivel-dios-remake"
+		},
+		{
+			"id": "Deuda de Sangre [Capítulo 23]",
+			"title": "Deuda de Sangre [Capítulo 23]",
+			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre-20260504-080412607"
+		},
+		{
+			"id": "El Rebelde de la Noble Familia Tiránica [Capítulo 21]",
+			"title": "El Rebelde de la Noble Familia Tiránica [Capítulo 21]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-rebelde-de-la-noble-familia-tiranica"
+		},
+		{
+			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 115]",
+			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 115]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-dios-marcial-que-regreso-al-nivel-2-20260504-080400111"
+		},
+		{
+			"id": "El extra de la novela (remake) [Capítulo 156]",
+			"title": "El extra de la novela (remake) [Capítulo 156]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-ext20-225-ra-de-la-novela-remake13424"
+		},
+		{
 			"id": "El Héroe Regresa a la Academia [Capítulo 50]",
 			"title": "El Héroe Regresa a la Academia [Capítulo 50]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-regresa-a-la-academia-20260504-080410350"
@@ -83,11 +108,6 @@
 			"url": "https://olympusbiblioteca.com/series/comic-el-dios-demonio"
 		},
 		{
-			"id": "El Rebelde de la Noble Familia Tiránica [Capítulo 20]",
-			"title": "El Rebelde de la Noble Familia Tiránica [Capítulo 20]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rebelde-de-la-noble-familia-tiranica"
-		},
-		{
 			"id": "Torre de Dios : Urek Mazino [Capítulo 61]",
 			"title": "Torre de Dios : Urek Mazino [Capítulo 61]",
 			"url": "https://olympusbiblioteca.com/series/comic-torre-de-dios-urek-mazino-20260503-080343591"
@@ -131,6 +151,11 @@
 			"id": "cultivador del dao bizarro [Capítulo 81]",
 			"title": "cultivador del dao bizarro [Capítulo 81]",
 			"url": "https://olympusbiblioteca.com/series/comic-cultiva5zxzdor-del-dao-bizarro"
+		},
+		{
+			"id": "El Rebelde de la Noble Familia Tiránica [Capítulo 20]",
+			"title": "El Rebelde de la Noble Familia Tiránica [Capítulo 20]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-rebelde-de-la-noble-familia-tiranica"
 		},
 		{
 			"id": "El heroe de nivel legendario prodigio de la academia. [Capítulo 83]",
@@ -2476,31 +2501,6 @@
 			"id": "Que alguien detenga al Papa [Capítulo 77]",
 			"title": "Que alguien detenga al Papa [Capítulo 77]",
 			"url": "https://olympusbiblioteca.com/series/comic-5zxzien-detenga-al-papa"
-		},
-		{
-			"id": "El Maestro de la Espada que Saltó a Través del Tiempo [Capítulo 36]",
-			"title": "El Maestro de la Espada que Saltó a Través del Tiempo [Capítulo 36]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-que-salto-a-traves-del-tiempo-20260413-130944309"
-		},
-		{
-			"id": "El príncipe heredero que vende medicina [Capítulo 103]",
-			"title": "El príncipe heredero que vende medicina [Capítulo 103]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-principe-heredero-que-vende-medicina-20260413-130202078"
-		},
-		{
-			"id": "Asesino Pietro (Viejo sabroso)| [Capítulo 125]",
-			"title": "Asesino Pietro (Viejo sabroso)| [Capítulo 125]",
-			"url": "https://olympusbiblioteca.com/series/comic-asesino-pietro-viejo-sabroso-20260413-130123992"
-		},
-		{
-			"id": "El Resucitado no Puede Morir [Capítulo 17]",
-			"title": "El Resucitado no Puede Morir [Capítulo 17]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-resucitado-no-puede-morir-20260413-131228247"
-		},
-		{
-			"id": "El Perro Loco de la Mansión del Duque [Capítulo 53]",
-			"title": "El Perro Loco de la Mansión del Duque [Capítulo 53]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-perro-loco-de-la-mansion-del-duque"
 		}
 	]
 }
