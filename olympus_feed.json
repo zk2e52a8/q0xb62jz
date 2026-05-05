@@ -3,6 +3,41 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 233]",
+			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 233]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mundo-despues-del-fin-20260504-080323510"
+		},
+		{
+			"id": "El Devoto Caballero [Capítulo 163]",
+			"title": "El Devoto Caballero [Capítulo 163]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-devoto-caballero-20260504-080358325"
+		},
+		{
+			"id": "*El Villano Del Destino [Capítulo 329]",
+			"title": "*El Villano Del Destino [Capítulo 329]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino"
+		},
+		{
+			"id": "El Stream del Reencarnado [Capítulo 48]",
+			"title": "El Stream del Reencarnado [Capítulo 48]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado-20260504-080409055"
+		},
+		{
+			"id": "El demonio celestial quiere una vida tranquila [Capítulo 77]",
+			"title": "El demonio celestial quiere una vida tranquila [Capítulo 77]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-demonio-celestial-quiere-una-vida-tranquila-20260504-080340250"
+		},
+		{
+			"id": "El mago pastor [Capítulo 18]",
+			"title": "El mago pastor [Capítulo 18]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago-pastor-20260504-080414317"
+		},
+		{
+			"id": "El hombre más guapo se convirtió en esqueleto [Capítulo 89]",
+			"title": "El hombre más guapo se convirtió en esqueleto [Capítulo 89]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-hombre-mas-guapo-se-convirtio-en-esqueleto-20260504-080340747"
+		},
+		{
 			"id": "Regresión absoluta [Capítulo 100]",
 			"title": "Regresión absoluta [Capítulo 100]",
 			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta-20260504-080336298"
@@ -11,11 +46,6 @@
 			"id": "*El asesino que retornó como el hijo del duque [Capítulo 125]",
 			"title": "*El asesino que retornó como el hijo del duque [Capítulo 125]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-que-retorno-como-el-hijo-del-duque-20260504-080332251"
-		},
-		{
-			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 232]",
-			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 232]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mundo-despues-del-fin-20260504-080323510"
 		},
 		{
 			"id": "El Mago Devorador de Talentos [Capítulo 130]",
@@ -98,16 +128,6 @@
 			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-cazador-de-clase-s-entre-monstruos-20260503-080405567"
 		},
 		{
-			"id": "*El Villano Del Destino [Capítulo 328]",
-			"title": "*El Villano Del Destino [Capítulo 328]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino"
-		},
-		{
-			"id": "El Devoto Caballero [Capítulo 162]",
-			"title": "El Devoto Caballero [Capítulo 162]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-devoto-caballero-20260503-080355779"
-		},
-		{
 			"id": "Convirtiéndome en el Perro Loco del Clan Cheon [Capítulo 16]",
 			"title": "Convirtiéndome en el Perro Loco del Clan Cheon [Capítulo 16]",
 			"url": "https://olympusbiblioteca.com/series/comic-convirtiendome-en-el-perro-loco-del-clan-cheon-20260503-080410439"
@@ -131,6 +151,21 @@
 			"id": "El Dios Demonio [Capítulo 29]",
 			"title": "El Dios Demonio [Capítulo 29]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-dios-demonio"
+		},
+		{
+			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 232]",
+			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 232]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mundo-despues-del-fin-20260504-080323510"
+		},
+		{
+			"id": "*El Villano Del Destino [Capítulo 328]",
+			"title": "*El Villano Del Destino [Capítulo 328]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino"
+		},
+		{
+			"id": "El Devoto Caballero [Capítulo 162]",
+			"title": "El Devoto Caballero [Capítulo 162]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-devoto-caballero-20260503-080355779"
 		},
 		{
 			"id": "Torre de Dios : Urek Mazino [Capítulo 61]",
@@ -2466,41 +2501,6 @@
 			"id": "Las Heroínas Intentan Matarme [Capítulo 50]",
 			"title": "Las Heroínas Intentan Matarme [Capítulo 50]",
 			"url": "https://olympusbiblioteca.com/series/comic-las-heroinas-intentan-matarme"
-		},
-		{
-			"id": "entrenador de clases [Capítulo 153.05]",
-			"title": "entrenador de clases [Capítulo 153.05]",
-			"url": "https://olympusbiblioteca.com/series/comic-entrenador-de-clases-20260414-130543382"
-		},
-		{
-			"id": "El Chetado (Overgeared) [Capítulo 318]",
-			"title": "El Chetado (Overgeared) [Capítulo 318]",
-			"url": "https://olympusbiblioteca.com/series/comic-27-220-225-565464565465"
-		},
-		{
-			"id": "Nivelando Con Los Dioses [Capítulo 166]",
-			"title": "Nivelando Con Los Dioses [Capítulo 166]",
-			"url": "https://olympusbiblioteca.com/series/comic-nivel20-225-ando-con-los-dioses13424"
-		},
-		{
-			"id": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 31]",
-			"title": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 31]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-primer-principe-la-leyenda-del-canto-de-la-espada"
-		},
-		{
-			"id": "Shirone El Infinit0 (Mago infinito) [Capítulo 164]",
-			"title": "Shirone El Infinit0 (Mago infinito) [Capítulo 164]",
-			"url": "https://olympusbiblioteca.com/series/comic-shirone20-225-el22-infinit015551251524131123"
-		},
-		{
-			"id": "El Stream del Reencarnado [Capítulo 45]",
-			"title": "El Stream del Reencarnado [Capítulo 45]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado-20260413-131058956"
-		},
-		{
-			"id": "Come y crece [Capítulo 47]",
-			"title": "Come y crece [Capítulo 47]",
-			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20260413-130923854"
 		}
 	]
 }
