@@ -3,6 +3,41 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Una carta de amor del futuro [Capítulo 42]",
+			"title": "Una carta de amor del futuro [Capítulo 42]",
+			"url": "https://olympusbiblioteca.com/series/comic-5zxzamor-del-futuro"
+		},
+		{
+			"id": "el bully de bullies [Capítulo 183]",
+			"title": "el bully de bullies [Capítulo 183]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-bully-de-bullies-20260506-080126893"
+		},
+		{
+			"id": "Mata Villanos [Capítulo 57]",
+			"title": "Mata Villanos [Capítulo 57]",
+			"url": "https://olympusbiblioteca.com/series/comic-mata-villanos-20260506-080122161"
+		},
+		{
+			"id": "Acampando en otro Mundo: buscandole el sazon a la vida [Capítulo 108]",
+			"title": "Acampando en otro Mundo: buscandole el sazon a la vida [Capítulo 108]",
+			"url": "https://olympusbiblioteca.com/series/comic-acampando-en-otro-mundo-buscandole-el-sazon-a-la-vida-20260506-080144569"
+		},
+		{
+			"id": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 53]",
+			"title": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 53]",
+			"url": "https://olympusbiblioteca.com/series/comic-me-converti-en-el-villano-con-el-que-la-heroina-esta-obsesionada"
+		},
+		{
+			"id": "El Despiadado Demonio Celestial [Capítulo 311]",
+			"title": "El Despiadado Demonio Celestial [Capítulo 311]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-despiadado-demonio-celestial-20260506-080127846"
+		},
+		{
+			"id": "El Sentido Absoluto de las Espadas [Capítulo 179]",
+			"title": "El Sentido Absoluto de las Espadas [Capítulo 179]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-sentido-absoluto-de-las-espadas-20260506-080109445"
+		},
+		{
 			"id": "Mago Oscuro (Black Haze remake) [Capítulo 73]",
 			"title": "Mago Oscuro (Black Haze remake) [Capítulo 73]",
 			"url": "https://olympusbiblioteca.com/series/comic-mago-oscuro-black-haze-remake"
@@ -21,11 +56,6 @@
 			"id": "El Regreso del Ranker mas Grande de la Historia [Capítulo 23]",
 			"title": "El Regreso del Ranker mas Grande de la Historia [Capítulo 23]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-ranker-mas-grande-de-la-historia"
-		},
-		{
-			"id": "el bully de bullies [Capítulo 183]",
-			"title": "el bully de bullies [Capítulo 183]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-bully-de-bullies-20260506-080126893"
 		},
 		{
 			"id": "el pasado oculto del jugador [Capítulo 118]",
@@ -516,11 +546,6 @@
 			"id": "Jugador de nivel máximo [Capítulo 137]",
 			"title": "Jugador de nivel máximo [Capítulo 137]",
 			"url": "https://olympusbiblioteca.com/series/comic-jug20-225-olympus513424"
-		},
-		{
-			"id": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 53]",
-			"title": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 53]",
-			"url": "https://olympusbiblioteca.com/series/comic-me-converti-en-el-villano-con-el-que-la-heroina-esta-obsesionada"
 		},
 		{
 			"id": "El Herrero que Regresó para Reparar Todo [Capítulo 27]",
@@ -2476,31 +2501,6 @@
 			"id": "Viviendo como un Lord Vampiro [Capítulo 39]",
 			"title": "Viviendo como un Lord Vampiro [Capítulo 39]",
 			"url": "https://olympusbiblioteca.com/series/comic-viviendo-como-un-lord-vampiro"
-		},
-		{
-			"id": "Construyendo un imperio industrial en un mundo mágico [Capítulo 80.5]",
-			"title": "Construyendo un imperio industrial en un mundo mágico [Capítulo 80.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-construye10-05-2025en-un-mundo-magico"
-		},
-		{
-			"id": "Viviendo como un bárbaro en un mundo de fantasÍa [Capítulo 52]",
-			"title": "Viviendo como un bárbaro en un mundo de fantasÍa [Capítulo 52]",
-			"url": "https://olympusbiblioteca.com/series/comic-viviendo-como-un-barbaro-en-un-mundo-de-fantasia"
-		},
-		{
-			"id": "El amo de la plaga [Capítulo 112]",
-			"title": "El amo de la plaga [Capítulo 112]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-a10-05-2025mo-de-la-plaga"
-		},
-		{
-			"id": "El guerrero despiadado [Capítulo 50]",
-			"title": "El guerrero despiadado [Capítulo 50]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado-20260415-131300499"
-		},
-		{
-			"id": "Sangre Maldita [Capítulo 81]",
-			"title": "Sangre Maldita [Capítulo 81]",
-			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20260415-130800436"
 		}
 	]
 }
