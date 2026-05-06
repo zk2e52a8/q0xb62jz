@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "La Espada Suprema Demoníaca [Capítulo 31]",
+			"title": "La Espada Suprema Demoníaca [Capítulo 31]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-espada-suprema-demoniaca-20260506-080153423"
+		},
+		{
 			"id": "Regresor de la familia caída [Capítulo 129]",
 			"title": "Regresor de la familia caída [Capítulo 129]",
 			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260505-080330253"
@@ -2496,11 +2501,6 @@
 			"id": "el bully de bullies [Capítulo 180]",
 			"title": "el bully de bullies [Capítulo 180]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-bully-de-bullies-20260415-130919086"
-		},
-		{
-			"id": "Las conspiraciones del mercenario regresado [Capítulo 85]",
-			"title": "Las conspiraciones del mercenario regresado [Capítulo 85]",
-			"url": "https://olympusbiblioteca.com/series/comic-las-conspiraciones-del-mercenario-regresado-20260415-130727031"
 		}
 	]
 }
