@@ -3,6 +3,16 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Regresor de la familia caída [Capítulo 129]",
+			"title": "Regresor de la familia caída [Capítulo 129]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260505-080330253"
+		},
+		{
+			"id": "El Chetado (Overgeared) [Capítulo 321]",
+			"title": "El Chetado (Overgeared) [Capítulo 321]",
+			"url": "https://olympusbiblioteca.com/series/comic-27-220-225-565464565465"
+		},
+		{
 			"id": "El Resucitado no Puede Morir [Capítulo 20]",
 			"title": "El Resucitado no Puede Morir [Capítulo 20]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-resucitado-no-puede-morir-20260505-080413327"
@@ -2491,16 +2501,6 @@
 			"id": "Las conspiraciones del mercenario regresado [Capítulo 85]",
 			"title": "Las conspiraciones del mercenario regresado [Capítulo 85]",
 			"url": "https://olympusbiblioteca.com/series/comic-las-conspiraciones-del-mercenario-regresado-20260415-130727031"
-		},
-		{
-			"id": "El maestro de la espada acogedor de estrellas [Capítulo 118]",
-			"title": "El maestro de la espada acogedor de estrellas [Capítulo 118]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-acogedor-de-estrellas-20260415-130455596"
-		},
-		{
-			"id": "Acumulador de rasgos [Capítulo 86]",
-			"title": "Acumulador de rasgos [Capítulo 86]",
-			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos-20260416-130727997"
 		}
 	]
 }
