@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Que alguien detenga al Papa [Capítulo 80]",
+			"title": "Que alguien detenga al Papa [Capítulo 80]",
+			"url": "https://olympusbiblioteca.com/series/comic-5zxzien-detenga-al-papa"
+		},
+		{
+			"id": "Nueva Cara [Capítulo 606]",
+			"title": "Nueva Cara [Capítulo 606]",
+			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20260507-080047452"
+		},
+		{
+			"id": "Viviendo como un bárbaro en un mundo de fantasÍa [Capítulo 56]",
+			"title": "Viviendo como un bárbaro en un mundo de fantasÍa [Capítulo 56]",
+			"url": "https://olympusbiblioteca.com/series/comic-viviendo-como-un-barbaro-en-un-mundo-de-fantasia"
+		},
+		{
+			"id": "Inicializando el Sistema de la Secta [Capítulo 35]",
+			"title": "Inicializando el Sistema de la Secta [Capítulo 35]",
+			"url": "https://olympusbiblioteca.com/series/comic-inicializando-el-sistema-de-la-secta-20260507-080101491"
+		},
+		{
+			"id": "Mi Invocación es de Clase EX [Capítulo 24]",
+			"title": "Mi Invocación es de Clase EX [Capítulo 24]",
+			"url": "https://olympusbiblioteca.com/series/comic-mi-invocacion-es-de-clase-ex"
+		},
+		{
+			"id": "Viviendo como un Lord Vampiro [Capítulo 42]",
+			"title": "Viviendo como un Lord Vampiro [Capítulo 42]",
+			"url": "https://olympusbiblioteca.com/series/comic-viviendo-como-un-lord-vampiro"
+		},
+		{
 			"id": "El Regreso Del Genio De Las Artes Marciales [Capítulo 138]",
 			"title": "El Regreso Del Genio De Las Artes Marciales [Capítulo 138]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-genio-de-las-artes-marciales-20260507-080018975"
@@ -46,11 +76,6 @@
 			"id": "El Dios Demonio [Capítulo 30]",
 			"title": "El Dios Demonio [Capítulo 30]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-dios-demonio"
-		},
-		{
-			"id": "Odisea en la Mazmorra [Capítulo 159]",
-			"title": "Odisea en la Mazmorra [Capítulo 159]",
-			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424"
 		},
 		{
 			"id": "El Retornado Quiere una Vida Tranquila [Capítulo 42]",
@@ -126,6 +151,11 @@
 			"id": "el pasado oculto del jugador [Capítulo 118]",
 			"title": "el pasado oculto del jugador [Capítulo 118]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-pasado-oculto-del-jugador-20260506-080139133"
+		},
+		{
+			"id": "Odisea en la Mazmorra [Capítulo 159]",
+			"title": "Odisea en la Mazmorra [Capítulo 159]",
+			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424"
 		},
 		{
 			"id": "Mi Vida Cuidando Dragonas [Capítulo 41]",
@@ -2471,36 +2501,6 @@
 			"id": "Los gemelos Baek [Capítulo 165]",
 			"title": "Los gemelos Baek [Capítulo 165]",
 			"url": "https://olympusbiblioteca.com/series/comic-los-gemelos-baek-20260416-131202050"
-		},
-		{
-			"id": "Sin fin skills [Capítulo 254]",
-			"title": "Sin fin skills [Capítulo 254]",
-			"url": "https://olympusbiblioteca.com/series/comic-sin-fin-skills-20260416-130940158"
-		},
-		{
-			"id": "Caballero en Eterna Regresión [Capítulo 105]",
-			"title": "Caballero en Eterna Regresión [Capítulo 105]",
-			"url": "https://olympusbiblioteca.com/series/comic-caballero-en-eterna-regresion-20260416-130649533"
-		},
-		{
-			"id": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 12]",
-			"title": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 12]",
-			"url": "https://olympusbiblioteca.com/series/comic-guia-de-supervivencia-del-cazador-de-bestias-demoniacas-20260416-131548229"
-		},
-		{
-			"id": "De duende a Dios Goblin [Capítulo 105]",
-			"title": "De duende a Dios Goblin [Capítulo 105]",
-			"url": "https://olympusbiblioteca.com/series/comic-de-duen10-05-2025de-a-dios-goblin"
-		},
-		{
-			"id": "El retorno del mago oscuro del alistamiento [Capítulo 77]",
-			"title": "El retorno del mago oscuro del alistamiento [Capítulo 77]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-retorno-del-mago-oscuro-del-alistamiento-20260416-131128771"
-		},
-		{
-			"id": "El Retornado Quiere una Vida Tranquila [Capítulo 41]",
-			"title": "El Retornado Quiere una Vida Tranquila [Capítulo 41]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-retornado-quiere-una-vida-tranquila"
 		}
 	]
 }
