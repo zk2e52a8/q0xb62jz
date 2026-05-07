@@ -227,6 +227,7 @@ const procesar_paginas = async (pagina) => {
 				title: ficha.titulo,
 				chapter: ficha.capitulo,
 				url: ficha.url
+				date_published: new Date(fecha_ficha).toISOString()
 			});
 
 			if (fecha_ficha !== null && !isNaN(fecha_ficha)) {
@@ -331,32 +332,59 @@ const generar_feed_final = (feed_base) => {
 	// Mapa para garantizar unicidad
 	const mapa_items = new Map();
 
+	for (const item of (feed_existente.items || [])) {
+		const id_item = item.id || item.title;
+
+		if (!id_item) {
+			continue;
+		}
+
+		mapa_items.set(id_item, item);
+	}
+
 	// Procesar los nuevos items
 	for (const item of (feed_base.items || [])) {
 		const titulo_completo = `${item.title.trim()} [${item.chapter.trim()}]`;
 
 		if (!mapa_items.has(titulo_completo)) {
+
+			// Item nuevo
 			mapa_items.set(titulo_completo, {
 				id: titulo_completo,
 				title: titulo_completo,
 				url: item.url,
+				date_published: item.date_published
 			});
+
+		// Actualizar las URL de items duplicados
 		} else {
 			const item_existente = mapa_items.get(titulo_completo);
-			item_existente.url = item.url;
-		}
-	}
 
-	// Añadir los items del archivo al mapa
-	for (const item of (feed_existente.items || [])) {
-		const id_item = item.id || item.title;
-		if (id_item) {
-			mapa_items.set(id_item, item);
+			if (item_existente.url !== item.url) {
+				console.log(`URL actualizada para: ${titulo_completo}`);
+				console.log(`Anterior: ${item_existente.url}`);
+				console.log(`Nueva: ${item.url}`);
+
+				item_existente.url = item.url;
+			}
+
+			// Actualizar fecha solo si existe
+			if (item.date_published) {
+				item_existente.date_published = item.date_published;
+			}
 		}
 	}
 
 	// Transferir los valores del mapa al array final
 	feed_final.items = Array.from(mapa_items.values());
+
+	// Ordenar por fecha
+	feed_final.items.sort((a, b) => {
+		const fecha_a = new Date(a.date_published || 0).getTime();
+		const fecha_b = new Date(b.date_published || 0).getTime();
+
+		return fecha_b - fecha_a;
+	});
 
 	// Limitar a 500 items (se eliminan desde el final)
 	if (feed_final.items.length > 500) {
