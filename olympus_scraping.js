@@ -226,7 +226,7 @@ const procesar_paginas = async (pagina) => {
 			json_feed_base.items.push({
 				title: ficha.titulo,
 				chapter: ficha.capitulo,
-				url: ficha.url
+				url: ficha.url,
 				date_published: new Date(fecha_ficha).toISOString()
 			});
 
