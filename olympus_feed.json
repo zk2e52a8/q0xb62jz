@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Regreso del Espadachín Oscuro [Capítulo 48]",
+			"title": "El Regreso del Espadachín Oscuro [Capítulo 48]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro"
+		},
+		{
+			"id": "Iniciando sesión en 10,000 años en el futuro [Capítulo 317]",
+			"title": "Iniciando sesión en 10,000 años en el futuro [Capítulo 317]",
+			"url": "https://olympusbiblioteca.com/series/comic-isecaikr20-225-arochino13424"
+		},
+		{
+			"id": "Regresor de la familia caída [Capítulo 130]",
+			"title": "Regresor de la familia caída [Capítulo 130]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260506-080112332"
+		},
+		{
+			"id": "Manual de instrucciones del Reencarnado [Capítulo 184]",
+			"title": "Manual de instrucciones del Reencarnado [Capítulo 184]",
+			"url": "https://olympusbiblioteca.com/series/comic-manual-de-instrucc20-225-l-reencarnado"
+		},
+		{
+			"id": "Roman Dmitry [Capítulo 196]",
+			"title": "Roman Dmitry [Capítulo 196]",
+			"url": "https://olympusbiblioteca.com/series/comic-roman-dmitry-20260506-080135873"
+		},
+		{
+			"id": "El Dios Demonio [Capítulo 30]",
+			"title": "El Dios Demonio [Capítulo 30]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-dios-demonio"
+		},
+		{
 			"id": "Odisea en la Mazmorra [Capítulo 159]",
 			"title": "Odisea en la Mazmorra [Capítulo 159]",
 			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424"
@@ -16,11 +46,6 @@
 			"id": "Archimago trascendiendo a través de la regresión [Capítulo 199]",
 			"title": "Archimago trascendiendo a través de la regresión [Capítulo 199]",
 			"url": "https://olympusbiblioteca.com/series/comic-archima20-225-de-la-regresion13424"
-		},
-		{
-			"id": "Manual de instrucciones del Reencarnado [Capítulo 183]",
-			"title": "Manual de instrucciones del Reencarnado [Capítulo 183]",
-			"url": "https://olympusbiblioteca.com/series/comic-manual-de-instrucc20-225-l-reencarnado"
 		},
 		{
 			"id": "Reencarne como el heredero loco [Capítulo 196]",
@@ -108,11 +133,6 @@
 			"url": "https://olympusbiblioteca.com/series/comic-la-espada-suprema-demoniaca-20260506-080153423"
 		},
 		{
-			"id": "Regresor de la familia caída [Capítulo 129]",
-			"title": "Regresor de la familia caída [Capítulo 129]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260505-080330253"
-		},
-		{
 			"id": "El Chetado (Overgeared) [Capítulo 321]",
 			"title": "El Chetado (Overgeared) [Capítulo 321]",
 			"url": "https://olympusbiblioteca.com/series/comic-27-220-225-565464565465"
@@ -131,6 +151,16 @@
 			"id": "Caballero en Eterna Regresión [Capítulo 108]",
 			"title": "Caballero en Eterna Regresión [Capítulo 108]",
 			"url": "https://olympusbiblioteca.com/series/comic-caballero-en-eterna-regresion-20260505-080334180"
+		},
+		{
+			"id": "Manual de instrucciones del Reencarnado [Capítulo 183]",
+			"title": "Manual de instrucciones del Reencarnado [Capítulo 183]",
+			"url": "https://olympusbiblioteca.com/series/comic-manual-de-instrucc20-225-l-reencarnado"
+		},
+		{
+			"id": "Regresor de la familia caída [Capítulo 129]",
+			"title": "Regresor de la familia caída [Capítulo 129]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260505-080330253"
 		},
 		{
 			"id": "Crónicas del Retorno del Dios Marcial [Capítulo 159]",
@@ -2471,36 +2501,6 @@
 			"id": "Acumulador de rasgos [Capítulo 87]",
 			"title": "Acumulador de rasgos [Capítulo 87]",
 			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos-20260416-130727997"
-		},
-		{
-			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 26]",
-			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 26]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes-20260416-131344451"
-		},
-		{
-			"id": "Hijos de la Runa [Capítulo 55]",
-			"title": "Hijos de la Runa [Capítulo 55]",
-			"url": "https://olympusbiblioteca.com/series/comic-hijoo5324s-de-la-runa"
-		},
-		{
-			"id": "Regresor de la familia caída [Capítulo 127]",
-			"title": "Regresor de la familia caída [Capítulo 127]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260416-130552273"
-		},
-		{
-			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 66]",
-			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 66]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis"
-		},
-		{
-			"id": "Al Diablo la Ventana de Estado [Capítulo 16]",
-			"title": "Al Diablo la Ventana de Estado [Capítulo 16]",
-			"url": "https://olympusbiblioteca.com/series/comic-al-diablo-la-ventana-de-estado-20260416-131517747"
-		},
-		{
-			"id": "Nueva Cara [Capítulo 603]",
-			"title": "Nueva Cara [Capítulo 603]",
-			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20260416-131036815"
 		}
 	]
 }
