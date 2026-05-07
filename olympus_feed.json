@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El soberano del hogar [Capítulo 78]",
+			"title": "El soberano del hogar [Capítulo 78]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-soberano-del-hogar-20260506-080121406"
+		},
+		{
 			"id": "El Regreso del Espadachín Oscuro [Capítulo 48]",
 			"title": "El Regreso del Espadachín Oscuro [Capítulo 48]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro"
@@ -2496,11 +2501,6 @@
 			"id": "Civilización Nebula [Capítulo 122]",
 			"title": "Civilización Nebula [Capítulo 122]",
 			"url": "https://olympusbiblioteca.com/series/comic-civilizacion-nebula-20260416-130551175"
-		},
-		{
-			"id": "Acumulador de rasgos [Capítulo 87]",
-			"title": "Acumulador de rasgos [Capítulo 87]",
-			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos-20260416-130727997"
 		}
 	]
 }
