@@ -3,39 +3,63 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Come y crece [Capítulo 50]",
+			"title": "Come y crece [Capítulo 50]",
+			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20260515-080524972",
+			"date_published": "2026-05-15T13:39:04.000Z"
+		},
+		{
+			"id": "Como vivir como el principe enemigo [Capítulo 113]",
+			"title": "Como vivir como el principe enemigo [Capítulo 113]",
+			"url": "https://olympusbiblioteca.com/series/comic-como-v20-225-rincipe-enemigo5324",
+			"date_published": "2026-05-15T13:34:51.000Z"
+		},
+		{
+			"id": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 180]",
+			"title": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 180]",
+			"url": "https://olympusbiblioteca.com/series/comic-maestr10-05-2025ede-ser-el-hijo-sagrado5324",
+			"date_published": "2026-05-15T13:04:58.000Z"
+		},
+		{
+			"id": "Resurrección solitaria [Capítulo 94]",
+			"title": "Resurrección solitaria [Capítulo 94]",
+			"url": "https://olympusbiblioteca.com/series/comic-resurreccion-solitaria-20260515-080459385",
+			"date_published": "2026-05-15T12:43:26.000Z"
+		},
+		{
+			"id": "Maestro de la espada devorador de espadas [Capítulo 24]",
+			"title": "Maestro de la espada devorador de espadas [Capítulo 24]",
+			"url": "https://olympusbiblioteca.com/series/comic-maestro-de-la-espada-devorador-de-espadas-20260515-080531824",
+			"date_published": "2026-05-15T11:43:25.000Z"
+		},
+		{
 			"id": "El soberano del hogar [Capítulo 79]",
 			"title": "El soberano del hogar [Capítulo 79]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-soberano-del-hogar-20260514-080503449",
+			"url": "https://olympusbiblioteca.com/series/comic-el-soberano-del-hogar-20260515-080503504",
 			"date_published": "2026-05-15T08:51:10.000Z"
 		},
 		{
 			"id": "El Stream del Reencarnado [Capítulo 49]",
 			"title": "El Stream del Reencarnado [Capítulo 49]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado-20260514-080530934",
+			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado-20260515-080532854",
 			"date_published": "2026-05-15T06:08:09.000Z"
 		},
 		{
 			"id": "Renacido en el Campo de Batalla Demoníaco [Capítulo 39]",
 			"title": "Renacido en el Campo de Batalla Demoníaco [Capítulo 39]",
-			"url": "https://olympusbiblioteca.com/series/comic-renacido-en-el-campo-de-batalla-demoniaco-20260514-080525801",
+			"url": "https://olympusbiblioteca.com/series/comic-renacido-en-el-campo-de-batalla-demoniaco-20260515-080526947",
 			"date_published": "2026-05-15T04:32:45.000Z"
 		},
 		{
 			"id": "Mago prismático genio [Capítulo 76]",
 			"title": "Mago prismático genio [Capítulo 76]",
-			"url": "https://olympusbiblioteca.com/series/comic-mago-prismatico-genio-20260514-080504761",
+			"url": "https://olympusbiblioteca.com/series/comic-mago-prismatico-genio-20260515-080505019",
 			"date_published": "2026-05-15T04:06:40.000Z"
-		},
-		{
-			"id": "Maestro de la espada devorador de espadas [Capítulo 24]",
-			"title": "Maestro de la espada devorador de espadas [Capítulo 24]",
-			"url": "https://olympusbiblioteca.com/series/comic-maestro-de-la-espada-devorador-de-espadas-20260514-080530796",
-			"date_published": "2026-05-15T03:22:02.000Z"
 		},
 		{
 			"id": "Inicializando el Sistema de la Secta [Capítulo 36]",
 			"title": "Inicializando el Sistema de la Secta [Capítulo 36]",
-			"url": "https://olympusbiblioteca.com/series/comic-inicializando-el-sistema-de-la-secta-20260514-080528010",
+			"url": "https://olympusbiblioteca.com/series/comic-inicializando-el-sistema-de-la-secta-20260515-080528721",
 			"date_published": "2026-05-15T03:20:31.000Z"
 		},
 		{
@@ -47,13 +71,13 @@
 		{
 			"id": "Tengo la guía exclusiva de la torre [Capítulo 118]",
 			"title": "Tengo la guía exclusiva de la torre [Capítulo 118]",
-			"url": "https://olympusbiblioteca.com/series/comic-tengo-la-guia-exclusiva-de-la-torre-20260514-080456364",
+			"url": "https://olympusbiblioteca.com/series/comic-tengo-la-guia-exclusiva-de-la-torre-20260515-080456505",
 			"date_published": "2026-05-15T02:11:27.000Z"
 		},
 		{
 			"id": "El guerrero despiadado [Capítulo 53]",
 			"title": "El guerrero despiadado [Capítulo 53]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado-20260514-080524365",
+			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado-20260515-080525576",
 			"date_published": "2026-05-15T01:42:18.000Z"
 		},
 		{
@@ -83,7 +107,7 @@
 		{
 			"id": "La luz de Arad: Aquel que camina primero [Capítulo 97]",
 			"title": "La luz de Arad: Aquel que camina primero [Capítulo 97]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-luz-de-arad-aquel-que-camina-primero-20260514-080459470",
+			"url": "https://olympusbiblioteca.com/series/comic-la-luz-de-arad-aquel-que-camina-primero-20260515-080459712",
 			"date_published": "2026-05-14T22:41:19.000Z"
 		},
 		{
@@ -95,7 +119,7 @@
 		{
 			"id": "El Sentido Absoluto de las Espadas [Capítulo 180]",
 			"title": "El Sentido Absoluto de las Espadas [Capítulo 180]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-sentido-absoluto-de-las-espadas-20260514-080451196",
+			"url": "https://olympusbiblioteca.com/series/comic-el-sentido-absoluto-de-las-espadas-20260515-080451309",
 			"date_published": "2026-05-14T22:25:09.000Z"
 		},
 		{
@@ -107,25 +131,25 @@
 		{
 			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 30]",
 			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 30]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes-20260514-080526701",
+			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes-20260515-080528149",
 			"date_published": "2026-05-14T19:54:05.000Z"
 		},
 		{
 			"id": "Un Nigromante en la familia de espadachines [Capítulo 8]",
 			"title": "Un Nigromante en la familia de espadachines [Capítulo 8]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-nigromante-en-la-familia-de-espadachines-20260514-080538280",
+			"url": "https://olympusbiblioteca.com/series/comic-un-nigromante-en-la-familia-de-espadachines-20260515-080539607",
 			"date_published": "2026-05-14T19:45:31.000Z"
 		},
 		{
 			"id": "Cómo criar villanos correctamente [Capítulo 35]",
 			"title": "Cómo criar villanos correctamente [Capítulo 35]",
-			"url": "https://olympusbiblioteca.com/series/comic-como-criar-villanos-correctamente-20260514-080527277",
+			"url": "https://olympusbiblioteca.com/series/comic-como-criar-villanos-correctamente-20260515-080528418",
 			"date_published": "2026-05-14T17:55:25.000Z"
 		},
 		{
 			"id": "Sin fin skills [Capítulo 258]",
 			"title": "Sin fin skills [Capítulo 258]",
-			"url": "https://olympusbiblioteca.com/series/comic-sin-fin-skills-20260514-080510121",
+			"url": "https://olympusbiblioteca.com/series/comic-sin-fin-skills-20260515-080510546",
 			"date_published": "2026-05-14T17:12:52.000Z"
 		},
 		{
@@ -137,13 +161,13 @@
 		{
 			"id": "Nueva Cara [Capítulo 607]",
 			"title": "Nueva Cara [Capítulo 607]",
-			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20260514-080514222",
+			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20260515-080514690",
 			"date_published": "2026-05-14T16:29:43.000Z"
 		},
 		{
 			"id": "El Maestro de la Espada que Saltó a Través del Tiempo [Capítulo 39]",
 			"title": "El Maestro de la Espada que Saltó a Través del Tiempo [Capítulo 39]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-que-salto-a-traves-del-tiempo-20260514-080525570",
+			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-que-salto-a-traves-del-tiempo-20260515-080526764",
 			"date_published": "2026-05-14T15:57:57.000Z"
 		},
 		{
