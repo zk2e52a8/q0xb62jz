@@ -168,8 +168,11 @@ const procesar_paginas = async (pagina) => {
 					const elemento_capitulo = el.querySelector(patron_capitulo);
 					const capitulo = elemento_capitulo ? elemento_capitulo.innerText.trim() : '';
 
-					const elemento_a = el.querySelector('a[href]');
-					const url = elemento_a ? elemento_a.href.trim() : '';
+					// Primer enlace del capítulo
+					const elemento_url_capitulo = elemento_capitulo?.closest('a[href]');
+					// Fallback primer enlace de la ficha
+					const elemento_url_ficha = el.querySelector('a[href]');
+					const url = (elemento_url_capitulo||elemento_url_ficha)?.href?.trim() || '';
 
 					const elemento_time = el.querySelector('time[datetime]');
 					const fecha = elemento_time ? elemento_time.getAttribute('datetime').trim() : '';
