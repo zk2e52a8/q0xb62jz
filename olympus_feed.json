@@ -3,10 +3,82 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El retorno del mago oscuro del alistamiento [Capítulo 78]",
+			"title": "El retorno del mago oscuro del alistamiento [Capítulo 78]",
+			"url": "https://olympusbiblioteca.com/capitulo/128872/comic-el-retorno-del-mago-oscuro-del-alistamiento-20260523-080456192",
+			"date_published": "2026-05-24T01:53:36.000Z"
+		},
+		{
+			"id": "Lider Kim [Capítulo 241]",
+			"title": "Lider Kim [Capítulo 241]",
+			"url": "https://olympusbiblioteca.com/capitulo/128871/comic-lider-kim-20260523-080449409",
+			"date_published": "2026-05-24T01:08:55.000Z"
+		},
+		{
+			"id": "Sangre Maldita [Capítulo 87]",
+			"title": "Sangre Maldita [Capítulo 87]",
+			"url": "https://olympusbiblioteca.com/capitulo/128870/comic-sangre-maldita-20260523-080440472",
+			"date_published": "2026-05-24T00:42:46.000Z"
+		},
+		{
+			"id": "La evolución de la serpiente inmortal [Capítulo 88]",
+			"title": "La evolución de la serpiente inmortal [Capítulo 88]",
+			"url": "https://olympusbiblioteca.com/capitulo/128868/comic-la-evolucion-de-la-serpiente-inmortal",
+			"date_published": "2026-05-24T00:27:43.000Z"
+		},
+		{
+			"id": "El Regreso Del Genio De Las Artes Marciales [Capítulo 140.05]",
+			"title": "El Regreso Del Genio De Las Artes Marciales [Capítulo 140.05]",
+			"url": "https://olympusbiblioteca.com/capitulo/128867/comic-el-regreso-del-genio-de-las-artes-marciales-20260523-080424101",
+			"date_published": "2026-05-24T00:15:32.000Z"
+		},
+		{
+			"id": "El Perro Loco de la Mansión del Duque [Capítulo 59]",
+			"title": "El Perro Loco de la Mansión del Duque [Capítulo 59]",
+			"url": "https://olympusbiblioteca.com/capitulo/128866/comic-el-perro-loco-de-la-mansion-del-duque",
+			"date_published": "2026-05-23T23:31:00.000Z"
+		},
+		{
+			"id": "La Super Tienda de Mascotas Estelares [Capítulo 216]",
+			"title": "La Super Tienda de Mascotas Estelares [Capítulo 216]",
+			"url": "https://olympusbiblioteca.com/capitulo/128865/comic-13424la-super-tienda-de-mascotas-estelares5324",
+			"date_published": "2026-05-23T23:15:53.000Z"
+		},
+		{
+			"id": "El Regreso del Maestro del Infierno [Capítulo 51]",
+			"title": "El Regreso del Maestro del Infierno [Capítulo 51]",
+			"url": "https://olympusbiblioteca.com/capitulo/128864/comic-el-regreso-del-maestro-del-infierno-20260523-080504440",
+			"date_published": "2026-05-23T23:04:57.000Z"
+		},
+		{
+			"id": "Restaurante del mago [Capítulo 133]",
+			"title": "Restaurante del mago [Capítulo 133]",
+			"url": "https://olympusbiblioteca.com/capitulo/128863/comic-restaurante-del-mago-20260523-080432531",
+			"date_published": "2026-05-23T22:25:37.000Z"
+		},
+		{
+			"id": "El Blinker genio de la academia mágica [Capítulo 98]",
+			"title": "El Blinker genio de la academia mágica [Capítulo 98]",
+			"url": "https://olympusbiblioteca.com/capitulo/128862/comic-20-225-e-la-academia-magica",
+			"date_published": "2026-05-23T21:57:26.000Z"
+		},
+		{
+			"id": "Manual de Reeducación de Damas Nobles [Capítulo 26]",
+			"title": "Manual de Reeducación de Damas Nobles [Capítulo 26]",
+			"url": "https://olympusbiblioteca.com/capitulo/128861/comic-manual-de-reeducacion-de-damas-nobles-20260523-080514949",
+			"date_published": "2026-05-23T21:16:09.000Z"
+		},
+		{
 			"id": "El renacimiento del Demonio Divino [Capítulo 31]",
 			"title": "El renacimiento del Demonio Divino [Capítulo 31]",
-			"url": "https://olympusbiblioteca.com/capitulo/128857/comic-1el-renacimiento-del-demonio-divino",
-			"date_published": "2026-05-23T20:24:20.000Z"
+			"url": "https://olympusbiblioteca.com/capitulo/128860/comic-1el-renacimiento-del-demonio-divino",
+			"date_published": "2026-05-23T20:46:33.000Z"
+		},
+		{
+			"id": "Ecos del Mundo Invertido [Capítulo 36]",
+			"title": "Ecos del Mundo Invertido [Capítulo 36]",
+			"url": "https://olympusbiblioteca.com/capitulo/128859/comic-ecos-del-mundo-invertido",
+			"date_published": "2026-05-23T20:28:14.000Z"
 		},
 		{
 			"id": "Un hombre moderno que transmigró al mundo murim [Capítulo 179]",
@@ -2929,60 +3001,6 @@
 			"title": "El maestro de la espada acogedor de estrellas [Capítulo 121]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-acogedor-de-estrellas-20260507-080022756",
 			"date_published": "2026-05-05T19:24:38.000Z"
-		},
-		{
-			"id": "El Psicópata del Murim [Capítulo 25]",
-			"title": "El Psicópata del Murim [Capítulo 25]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-psicopata-del-murim-20260507-080107402",
-			"date_published": "2026-05-05T19:11:00.000Z"
-		},
-		{
-			"id": "Ranker Salvaje [Capítulo 54]",
-			"title": "Ranker Salvaje [Capítulo 54]",
-			"url": "https://olympusbiblioteca.com/series/comic-ranker-salvaje-20260507-080104108",
-			"date_published": "2026-05-05T18:40:07.000Z"
-		},
-		{
-			"id": "Secta de la montaña [Capítulo 161]",
-			"title": "Secta de la montaña [Capítulo 161]",
-			"url": "https://olympusbiblioteca.com/series/comic-secta-de-la-montana-20260507-080027238",
-			"date_published": "2026-05-05T18:32:02.000Z"
-		},
-		{
-			"id": "El príncipe heredero que vende medicina [Capítulo 105]",
-			"title": "El príncipe heredero que vende medicina [Capítulo 105]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-principe-heredero-que-vende-medicina-20260507-080025513",
-			"date_published": "2026-05-05T17:48:47.000Z"
-		},
-		{
-			"id": "Las Heroínas Intentan Matarme [Capítulo 53]",
-			"title": "Las Heroínas Intentan Matarme [Capítulo 53]",
-			"url": "https://olympusbiblioteca.com/series/comic-las-heroinas-intentan-matarme",
-			"date_published": "2026-05-05T16:13:36.000Z"
-		},
-		{
-			"id": "Montañas de cadáveres y mar de sangre [Capítulo 33]",
-			"title": "Montañas de cadáveres y mar de sangre [Capítulo 33]",
-			"url": "https://olympusbiblioteca.com/series/comic-montanas-de-cadaveres-y-mar-de-sangre",
-			"date_published": "2026-05-05T16:13:11.000Z"
-		},
-		{
-			"id": "Regresión del bastardo del clan de la espada [Capítulo 94]",
-			"title": "Regresión del bastardo del clan de la espada [Capítulo 94]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresion10-05-20250152309",
-			"date_published": "2026-05-05T15:50:46.000Z"
-		},
-		{
-			"id": "Rayito [Capítulo 400]",
-			"title": "Rayito [Capítulo 400]",
-			"url": "https://olympusbiblioteca.com/series/comic-rayito-20260507-080054118",
-			"date_published": "2026-05-05T15:39:22.000Z"
-		},
-		{
-			"id": "El Rey demonio tiene 18 años [Capítulo 38]",
-			"title": "El Rey demonio tiene 18 años [Capítulo 38]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-tiene-18-anos",
-			"date_published": "2026-05-05T14:41:36.000Z"
 		}
 	]
 }
