@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 56]",
+			"title": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 56]",
+			"url": "https://olympusbiblioteca.com/capitulo/128888/comic-el-hijo-menor-del-grupo-mercantil-eunhae",
+			"date_published": "2026-05-24T16:22:50.000Z"
+		},
+		{
+			"id": "El Sentido Absoluto de las Espadas [Capítulo 182]",
+			"title": "El Sentido Absoluto de las Espadas [Capítulo 182]",
+			"url": "https://olympusbiblioteca.com/capitulo/128805/comic-el-sentido-absoluto-de-las-espadas-20260524-080509183",
+			"date_published": "2026-05-24T15:55:27.000Z"
+		},
+		{
+			"id": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 56]",
+			"title": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 56]",
+			"url": "https://olympusbiblioteca.com/capitulo/128887/comic-me-converti-en-el-villano-con-el-que-la-heroina-esta-obsesionada",
+			"date_published": "2026-05-24T15:08:22.000Z"
+		},
+		{
+			"id": "La venganza del sabueso de sangre de hierro [Capítulo 164]",
+			"title": "La venganza del sabueso de sangre de hierro [Capítulo 164]",
+			"url": "https://olympusbiblioteca.com/capitulo/128886/comic-20-225-2sabueso13424",
+			"date_published": "2026-05-24T14:24:21.000Z"
+		},
+		{
+			"id": "El jugador que no puede subir de nivel [Capítulo 230.5]",
+			"title": "El jugador que no puede subir de nivel [Capítulo 230.5]",
+			"url": "https://olympusbiblioteca.com/capitulo/128885/comic-el-jugador-que-no-puede-subir-de-nivel-20260524-080539393",
+			"date_published": "2026-05-24T14:10:56.000Z"
+		},
+		{
 			"id": "El legendario hijo menor de la Casa del Marques [Capítulo 165.5]",
 			"title": "El legendario hijo menor de la Casa del Marques [Capítulo 165.5]",
 			"url": "https://olympusbiblioteca.com/capitulo/128882/comic-el-lege20-225-ndario-marques13424",
@@ -95,7 +125,7 @@
 		{
 			"id": "Restaurante del mago [Capítulo 133]",
 			"title": "Restaurante del mago [Capítulo 133]",
-			"url": "https://olympusbiblioteca.com/capitulo/128863/comic-restaurante-del-mago-20260523-080432531",
+			"url": "https://olympusbiblioteca.com/capitulo/128863/comic-restaurante-del-mago-20260524-080512977",
 			"date_published": "2026-05-23T22:25:37.000Z"
 		},
 		{
@@ -163,12 +193,6 @@
 			"title": "El legendario prodigio del ducado [Capítulo 49]",
 			"url": "https://olympusbiblioteca.com/capitulo/128845/comic-el-legendario-prodigio-del-ducado",
 			"date_published": "2026-05-23T15:29:35.000Z"
-		},
-		{
-			"id": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 56]",
-			"title": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 56]",
-			"url": "https://olympusbiblioteca.com/capitulo/128844/comic-me-converti-en-el-villano-con-el-que-la-heroina-esta-obsesionada",
-			"date_published": "2026-05-23T14:33:49.000Z"
 		},
 		{
 			"id": "Heroe, regresa [Capítulo 155]",
@@ -2977,30 +3001,6 @@
 			"title": "Pick me up, Gacha Infinito [Capítulo 200]",
 			"url": "https://olympusbiblioteca.com/series/comic-pick-me-up-gacha-infinito-20260507-080055528",
 			"date_published": "2026-05-06T14:16:37.000Z"
-		},
-		{
-			"id": "El regreso del héroe de clase: Desastre [Capítulo 175]",
-			"title": "El regreso del héroe de clase: Desastre [Capítulo 175]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-cl20-225-ase-desastre13424",
-			"date_published": "2026-05-06T13:56:15.000Z"
-		},
-		{
-			"id": "La Espada Suprema Demoníaca [Capítulo 31]",
-			"title": "La Espada Suprema Demoníaca [Capítulo 31]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-espada-suprema-demoniaca-20260507-080108812",
-			"date_published": "2026-05-06T13:01:22.000Z"
-		},
-		{
-			"id": "El Chetado (Overgeared) [Capítulo 321]",
-			"title": "El Chetado (Overgeared) [Capítulo 321]",
-			"url": "https://olympusbiblioteca.com/series/comic-27-220-225-565464565465",
-			"date_published": "2026-05-06T03:59:42.000Z"
-		},
-		{
-			"id": "El Resucitado no Puede Morir [Capítulo 20]",
-			"title": "El Resucitado no Puede Morir [Capítulo 20]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-resucitado-no-puede-morir-20260507-080110977",
-			"date_published": "2026-05-06T01:33:36.000Z"
 		}
 	]
 }
