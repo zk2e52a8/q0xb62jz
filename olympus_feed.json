@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 172]",
+			"title": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 172]",
+			"url": "https://olympusbiblioteca.com/capitulo/128880/comic-cronicas-de-la-faccion-demoniaca-chun-hajin-el-asesino-mas-fuerte-20260523-080456537",
+			"date_published": "2026-05-24T03:54:06.000Z"
+		},
+		{
+			"id": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 144]",
+			"title": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 144]",
+			"url": "https://olympusbiblioteca.com/capitulo/128876/comic-el-prodigioso-caballero-oscuro-con-tiempo-limitado-20260523-080458653",
+			"date_published": "2026-05-24T03:37:11.000Z"
+		},
+		{
+			"id": "Come y crece [Capítulo 54]",
+			"title": "Come y crece [Capítulo 54]",
+			"url": "https://olympusbiblioteca.com/capitulo/128875/comic-come-y-crece-20260523-080502426",
+			"date_published": "2026-05-24T02:57:58.000Z"
+		},
+		{
+			"id": "El soberano del hogar [Capítulo 81]",
+			"title": "El soberano del hogar [Capítulo 81]",
+			"url": "https://olympusbiblioteca.com/capitulo/128874/comic-el-soberano-del-hogar-20260523-080441122",
+			"date_published": "2026-05-24T02:48:34.000Z"
+		},
+		{
+			"id": "El Genio Espadachín Fantasma de la Secta del Monte Hua [Capítulo 64]",
+			"title": "El Genio Espadachín Fantasma de la Secta del Monte Hua [Capítulo 64]",
+			"url": "https://olympusbiblioteca.com/capitulo/128873/comic-el-genio-espadachin-fantasma-de-la-secta-del-monte-hua-20260523-080442215",
+			"date_published": "2026-05-24T02:37:04.000Z"
+		},
+		{
 			"id": "El retorno del mago oscuro del alistamiento [Capítulo 78]",
 			"title": "El retorno del mago oscuro del alistamiento [Capítulo 78]",
 			"url": "https://olympusbiblioteca.com/capitulo/128872/comic-el-retorno-del-mago-oscuro-del-alistamiento-20260523-080456192",
@@ -2971,36 +3001,6 @@
 			"title": "Caballero en Eterna Regresión [Capítulo 108]",
 			"url": "https://olympusbiblioteca.com/series/comic-caballero-en-eterna-regresion-20260507-080030207",
 			"date_published": "2026-05-05T23:19:03.000Z"
-		},
-		{
-			"id": "Crónicas del Retorno del Dios Marcial [Capítulo 159]",
-			"title": "Crónicas del Retorno del Dios Marcial [Capítulo 159]",
-			"url": "https://olympusbiblioteca.com/series/comic-cronica20-225-os-marcial13424",
-			"date_published": "2026-05-05T22:23:21.000Z"
-		},
-		{
-			"id": "Los Breakers [Capítulo 69]",
-			"title": "Los Breakers [Capítulo 69]",
-			"url": "https://olympusbiblioteca.com/series/comic-los-breakers-20260507-080102538",
-			"date_published": "2026-05-05T21:19:47.000Z"
-		},
-		{
-			"id": "El Mago Devorador de Talentos [Capítulo 132]",
-			"title": "El Mago Devorador de Talentos [Capítulo 132]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago-20-225-devorador-de-talentos13424",
-			"date_published": "2026-05-05T20:16:12.000Z"
-		},
-		{
-			"id": "El Retorno del Patriarca Mil Años Después [Capítulo 38]",
-			"title": "El Retorno del Patriarca Mil Años Después [Capítulo 38]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-retorno-del-patriarca-mil-anos-despues",
-			"date_published": "2026-05-05T19:52:00.000Z"
-		},
-		{
-			"id": "El maestro de la espada acogedor de estrellas [Capítulo 121]",
-			"title": "El maestro de la espada acogedor de estrellas [Capítulo 121]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-acogedor-de-estrellas-20260507-080022756",
-			"date_published": "2026-05-05T19:24:38.000Z"
 		}
 	]
 }
