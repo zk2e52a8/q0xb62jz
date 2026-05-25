@@ -3,10 +3,16 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Rebelde de la Noble Familia Tiránica [Capítulo 24]",
+			"title": "El Rebelde de la Noble Familia Tiránica [Capítulo 24]",
+			"url": "https://olympusbiblioteca.com/capitulo/128919/comic-el-rebelde-de-la-noble-familia-tiranica",
+			"date_published": "2026-05-25T16:01:05.000Z"
+		},
+		{
 			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 118]",
 			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 118]",
-			"url": "https://olympusbiblioteca.com/capitulo/128917/comic-el-dios-marcial-que-regreso-al-nivel-2-20260525-080546413",
-			"date_published": "2026-05-25T14:20:45.000Z"
+			"url": "https://olympusbiblioteca.com/capitulo/128918/comic-el-dios-marcial-que-regreso-al-nivel-2-20260525-080546413",
+			"date_published": "2026-05-25T14:34:23.000Z"
 		},
 		{
 			"id": "El Genio entrenador de artes marciales [Capítulo 115]",
@@ -2995,12 +3001,6 @@
 			"title": "El Regreso del Espadachín Oscuro [Capítulo 48]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
 			"date_published": "2026-05-07T04:17:10.000Z"
-		},
-		{
-			"id": "Iniciando sesión en 10,000 años en el futuro [Capítulo 317]",
-			"title": "Iniciando sesión en 10,000 años en el futuro [Capítulo 317]",
-			"url": "https://olympusbiblioteca.com/series/comic-isecaikr20-225-arochino13424",
-			"date_published": "2026-05-07T04:14:54.000Z"
 		}
 	]
 }
