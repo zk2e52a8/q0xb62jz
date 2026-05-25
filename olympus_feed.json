@@ -3,9 +3,39 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 118]",
+			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 118]",
+			"url": "https://olympusbiblioteca.com/capitulo/128917/comic-el-dios-marcial-que-regreso-al-nivel-2-20260525-080546413",
+			"date_published": "2026-05-25T14:20:45.000Z"
+		},
+		{
+			"id": "El Genio entrenador de artes marciales [Capítulo 115]",
+			"title": "El Genio entrenador de artes marciales [Capítulo 115]",
+			"url": "https://olympusbiblioteca.com/capitulo/128916/comic-el-genio-entrenador-de-artes-marciales-20260525-080519963",
+			"date_published": "2026-05-25T14:03:25.000Z"
+		},
+		{
+			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 71]",
+			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 71]",
+			"url": "https://olympusbiblioteca.com/capitulo/128915/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
+			"date_published": "2026-05-25T14:01:36.000Z"
+		},
+		{
+			"id": "El extra de la novela (remake) [Capítulo 158]",
+			"title": "El extra de la novela (remake) [Capítulo 158]",
+			"url": "https://olympusbiblioteca.com/capitulo/128914/comic-el-ext20-225-ra-de-la-novela-remake13424",
+			"date_published": "2026-05-25T13:57:53.000Z"
+		},
+		{
+			"id": "El Guerrero Escolta Reencarnado [Capítulo 149]",
+			"title": "El Guerrero Escolta Reencarnado [Capítulo 149]",
+			"url": "https://olympusbiblioteca.com/capitulo/128910/comic-el-gu10-05-2025encarnado",
+			"date_published": "2026-05-25T13:05:16.000Z"
+		},
+		{
 			"id": "Item Chetado [Capítulo 180]",
 			"title": "Item Chetado [Capítulo 180]",
-			"url": "https://olympusbiblioteca.com/capitulo/128907/comic-item-chetado-20260524-080528289",
+			"url": "https://olympusbiblioteca.com/capitulo/128907/comic-item-chetado-20260525-080533986",
 			"date_published": "2026-05-25T02:23:34.000Z"
 		},
 		{
@@ -17,13 +47,13 @@
 		{
 			"id": "El Mago de Decima Clase [Capítulo 12]",
 			"title": "El Mago de Decima Clase [Capítulo 12]",
-			"url": "https://olympusbiblioteca.com/capitulo/128902/comic-el-mago-de-decima-clase-20260524-080555540",
+			"url": "https://olympusbiblioteca.com/capitulo/128902/comic-el-mago-de-decima-clase-20260525-080602603",
 			"date_published": "2026-05-25T00:44:06.000Z"
 		},
 		{
 			"id": "Los Breakers [Capítulo 84]",
 			"title": "Los Breakers [Capítulo 84]",
-			"url": "https://olympusbiblioteca.com/capitulo/128901/comic-los-breakers-20260524-080546427",
+			"url": "https://olympusbiblioteca.com/capitulo/128901/comic-los-breakers-20260525-080553392",
 			"date_published": "2026-05-25T00:05:14.000Z"
 		},
 		{
@@ -47,13 +77,13 @@
 		{
 			"id": "Inicializando el Sistema de la Secta [Capítulo 39]",
 			"title": "Inicializando el Sistema de la Secta [Capítulo 39]",
-			"url": "https://olympusbiblioteca.com/capitulo/128897/comic-inicializando-el-sistema-de-la-secta-20260524-080545622",
+			"url": "https://olympusbiblioteca.com/capitulo/128897/comic-inicializando-el-sistema-de-la-secta-20260525-080552460",
 			"date_published": "2026-05-24T22:14:24.000Z"
 		},
 		{
 			"id": "Reencarnado [Capítulo 133]",
 			"title": "Reencarnado [Capítulo 133]",
-			"url": "https://olympusbiblioteca.com/capitulo/128881/comic-reencarnado-20260524-080511658",
+			"url": "https://olympusbiblioteca.com/capitulo/128881/comic-reencarnado-20260525-080516444",
 			"date_published": "2026-05-24T20:45:15.000Z"
 		},
 		{
@@ -65,7 +95,7 @@
 		{
 			"id": "Mi esposa es la líder del culto demoníaco [Capítulo 62]",
 			"title": "Mi esposa es la líder del culto demoníaco [Capítulo 62]",
-			"url": "https://olympusbiblioteca.com/capitulo/128893/comic-mi-esposa-es-la-lider-del-culto-demoniaco-20260524-080524234",
+			"url": "https://olympusbiblioteca.com/capitulo/128893/comic-mi-esposa-es-la-lider-del-culto-demoniaco-20260525-080529331",
 			"date_published": "2026-05-24T20:04:10.000Z"
 		},
 		{
@@ -83,19 +113,19 @@
 		{
 			"id": "*El asesino que retornó como el hijo del duque [Capítulo 128]",
 			"title": "*El asesino que retornó como el hijo del duque [Capítulo 128]",
-			"url": "https://olympusbiblioteca.com/capitulo/128891/comic-el-asesino-que-retorno-como-el-hijo-del-duque-20260524-080513029",
+			"url": "https://olympusbiblioteca.com/capitulo/128891/comic-el-asesino-que-retorno-como-el-hijo-del-duque-20260525-080517989",
 			"date_published": "2026-05-24T17:42:44.000Z"
 		},
 		{
 			"id": "Renacido en el Campo de Batalla Demoníaco [Capítulo 41]",
 			"title": "Renacido en el Campo de Batalla Demoníaco [Capítulo 41]",
-			"url": "https://olympusbiblioteca.com/capitulo/128890/comic-renacido-en-el-campo-de-batalla-demoniaco-20260524-080543762",
+			"url": "https://olympusbiblioteca.com/capitulo/128890/comic-renacido-en-el-campo-de-batalla-demoniaco-20260525-080550437",
 			"date_published": "2026-05-24T17:32:49.000Z"
 		},
 		{
 			"id": "Guía de estrategia de un cobarde para conquistar la torre [Capítulo 28]",
 			"title": "Guía de estrategia de un cobarde para conquistar la torre [Capítulo 28]",
-			"url": "https://olympusbiblioteca.com/capitulo/128702/comic-guia-de-estrategia-de-un-cobarde-para-conquistar-la-torre-20260524-080547794",
+			"url": "https://olympusbiblioteca.com/capitulo/128702/comic-guia-de-estrategia-de-un-cobarde-para-conquistar-la-torre-20260525-080554505",
 			"date_published": "2026-05-24T17:25:29.000Z"
 		},
 		{
@@ -113,7 +143,7 @@
 		{
 			"id": "El Sentido Absoluto de las Espadas [Capítulo 182]",
 			"title": "El Sentido Absoluto de las Espadas [Capítulo 182]",
-			"url": "https://olympusbiblioteca.com/capitulo/128805/comic-el-sentido-absoluto-de-las-espadas-20260524-080509183",
+			"url": "https://olympusbiblioteca.com/capitulo/128805/comic-el-sentido-absoluto-de-las-espadas-20260525-080514251",
 			"date_published": "2026-05-24T15:55:27.000Z"
 		},
 		{
@@ -131,7 +161,7 @@
 		{
 			"id": "El jugador que no puede subir de nivel [Capítulo 230.5]",
 			"title": "El jugador que no puede subir de nivel [Capítulo 230.5]",
-			"url": "https://olympusbiblioteca.com/capitulo/128885/comic-el-jugador-que-no-puede-subir-de-nivel-20260524-080539393",
+			"url": "https://olympusbiblioteca.com/capitulo/128885/comic-el-jugador-que-no-puede-subir-de-nivel-20260525-080545608",
 			"date_published": "2026-05-24T14:10:56.000Z"
 		},
 		{
@@ -143,13 +173,13 @@
 		{
 			"id": "Civilización Nebula [Capítulo 129]",
 			"title": "Civilización Nebula [Capítulo 129]",
-			"url": "https://olympusbiblioteca.com/capitulo/128710/comic-civilizacion-nebula-20260524-080511281",
+			"url": "https://olympusbiblioteca.com/capitulo/128710/comic-civilizacion-nebula-20260525-080516048",
 			"date_published": "2026-05-24T13:05:22.000Z"
 		},
 		{
 			"id": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 172]",
 			"title": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 172]",
-			"url": "https://olympusbiblioteca.com/capitulo/128880/comic-cronicas-de-la-faccion-demoniaca-chun-hajin-el-asesino-mas-fuerte-20260524-080535522",
+			"url": "https://olympusbiblioteca.com/capitulo/128880/comic-cronicas-de-la-faccion-demoniaca-chun-hajin-el-asesino-mas-fuerte-20260525-080541815",
 			"date_published": "2026-05-24T03:54:06.000Z"
 		},
 		{
@@ -2971,36 +3001,6 @@
 			"title": "Iniciando sesión en 10,000 años en el futuro [Capítulo 317]",
 			"url": "https://olympusbiblioteca.com/series/comic-isecaikr20-225-arochino13424",
 			"date_published": "2026-05-07T04:14:54.000Z"
-		},
-		{
-			"id": "Regresor de la familia caída [Capítulo 130]",
-			"title": "Regresor de la familia caída [Capítulo 130]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260507-080026436",
-			"date_published": "2026-05-07T03:32:35.000Z"
-		},
-		{
-			"id": "Manual de instrucciones del Reencarnado [Capítulo 184]",
-			"title": "Manual de instrucciones del Reencarnado [Capítulo 184]",
-			"url": "https://olympusbiblioteca.com/series/comic-manual-de-instrucc20-225-l-reencarnado",
-			"date_published": "2026-05-07T02:59:56.000Z"
-		},
-		{
-			"id": "Roman Dmitry [Capítulo 196]",
-			"title": "Roman Dmitry [Capítulo 196]",
-			"url": "https://olympusbiblioteca.com/series/comic-roman-dmitry-20260507-080050867",
-			"date_published": "2026-05-07T02:48:16.000Z"
-		},
-		{
-			"id": "El Dios Demonio [Capítulo 30]",
-			"title": "El Dios Demonio [Capítulo 30]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-demonio",
-			"date_published": "2026-05-07T02:03:12.000Z"
-		},
-		{
-			"id": "Odisea en la Mazmorra [Capítulo 159]",
-			"title": "Odisea en la Mazmorra [Capítulo 159]",
-			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
-			"date_published": "2026-05-07T01:44:32.000Z"
 		}
 	]
 }
