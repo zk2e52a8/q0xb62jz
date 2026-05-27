@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Indomable Rey Marcial [Capítulo 133]",
+			"title": "El Indomable Rey Marcial [Capítulo 133]",
+			"url": "https://olympusbiblioteca.com/capitulo/128983/comic-el-indomable-rey-marcial-20260526-080515478",
+			"date_published": "2026-05-27T07:34:45.000Z"
+		},
+		{
+			"id": "Transmisión en vivo del Dios de la Espada [Capítulo 1]",
+			"title": "Transmisión en vivo del Dios de la Espada [Capítulo 1]",
+			"url": "https://olympusbiblioteca.com/capitulo/128976/comic-transmision-en-vivo-del-dios-de-la-espada",
+			"date_published": "2026-05-27T03:35:39.000Z"
+		},
+		{
 			"id": "Artes Marciales Globales [Capítulo 359]",
 			"title": "Artes Marciales Globales [Capítulo 359]",
 			"url": "https://olympusbiblioteca.com/capitulo/128972/comic-el-m10-05-2025en-de-las-peleas",
@@ -2989,18 +3001,6 @@
 			"title": "Ingeniero de Laberintos de Rango Nacional [Capítulo 17]",
 			"url": "https://olympusbiblioteca.com/series/comic-ingeniero-de-laberintos-de-rango-nacional",
 			"date_published": "2026-05-09T01:56:40.000Z"
-		},
-		{
-			"id": "Mi Evolución a Partir de un Árbol Gigante [Capítulo 516]",
-			"title": "Mi Evolución a Partir de un Árbol Gigante [Capítulo 516]",
-			"url": "https://olympusbiblioteca.com/series/comic-arbol-mamv20-225-adisimo77213124",
-			"date_published": "2026-05-09T00:51:50.000Z"
-		},
-		{
-			"id": "Restaurante del mago [Capítulo 131]",
-			"title": "Restaurante del mago [Capítulo 131]",
-			"url": "https://olympusbiblioteca.com/series/comic-restaurante-del-mago-20260509-080310438",
-			"date_published": "2026-05-09T00:33:01.000Z"
 		}
 	]
 }
