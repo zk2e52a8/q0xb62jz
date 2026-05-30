@@ -22,34 +22,14 @@ jobs:
       - name: Clonar repositorio privado
         uses: actions/checkout@v6
 
-      - name: Instalar WireGuard
-        env:
-            DEBIAN_FRONTEND: noninteractive
-            NEEDRESTART_MODE: a
-            NEEDRESTART_SUSPEND: 1
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y wireguard-tools
-
-      - name: Configurar WireGuard
-        env:
-          WG_CONFIG: ${{ secrets.WG_CONFIG }}
-        run: |
-          sudo mkdir -p /etc/wireguard/
-          printf '%s\n' "$WG_CONFIG" | sudo tee /etc/wireguard/wg0.conf > /dev/null
-          sudo chmod 600 /etc/wireguard/wg0.conf
-
-      - name: Iniciar conexión WireGuard (timeout 30s)
-        run: |
-          sudo timeout --foreground 30s wg-quick up wg0 \
-            || { echo "::error::No se logró conectarse a WireGuard wg0"; exit 1; }
-
-      - name: Verificar conexión
-        run: |
-          if ! curl --fail --max-time 10 -s https://google.com > /dev/null; then
-            echo "::error::Conexión no establecida; revisar credenciales"
-            exit 1
-          fi
+      - name: Set up WireGuard
+        uses: egor-tensin/setup-wireguard@v1
+        with:
+          endpoint: '${{ secrets.ENDPOINT }}'
+          endpoint_public_key: '${{ secrets.PUBLIC_KEY }}'
+          allowed_ips: '0.0.0.0/0, ::/0'
+          private_key: '${{ secrets.PRIVATE_KEY }}'
+          keepalive: '25'
 
       - name: Configurar Node.js
         uses: actions/setup-node@v5
