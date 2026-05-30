@@ -27,6 +27,7 @@ jobs:
         with:
           endpoint: '${{ secrets.ENDPOINT }}'
           endpoint_public_key: '${{ secrets.PUBLIC_KEY }}'
+          ips: '${{ secrets.ADDRESS }}'
           allowed_ips: '0.0.0.0/0, ::/0'
           private_key: '${{ secrets.PRIVATE_KEY }}'
           keepalive: '25'
