@@ -19,31 +19,13 @@ jobs:
     timeout-minutes: 60
 
     steps:
+      - name: Configurar WireGuard
+        uses: Cardtonic-Technologies/ttt-wireguard@main
+        with:
+          WG_CONFIG: ${{ secrets.WG_CONFIG }}
+    
       - name: Clonar repositorio privado
         uses: actions/checkout@v6
-
-      - name: Instalar WireGuard
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y wireguard-tools
-
-      - name: Configurar WireGuard
-        run: |
-          sudo mkdir -p /etc/wireguard/
-          echo "${{ secrets.WG_CONFIG }}" | sudo tee /etc/wireguard/wg0.conf > /dev/null
-          sudo chmod 600 /etc/wireguard/wg0.conf
-
-      - name: Iniciar conexión WireGuard (timeout 30s)
-        run: |
-          sudo timeout --foreground 30s wg-quick up wg0 \
-            || { echo "::error::No se logró conectarse a WireGuard wg0"; exit 1; }
-
-      - name: Verificar conexión
-        run: |
-          if ! curl --fail --max-time 10 -s https://google.com > /dev/null; then
-            echo "::error::Conexión no establecida; revisar credenciales"
-            exit 1
-          fi
 
       - name: Configurar Node.js
         uses: actions/setup-node@v5
