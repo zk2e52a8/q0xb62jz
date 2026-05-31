@@ -19,6 +19,11 @@ jobs:
     timeout-minutes: 60
 
     steps:
+      - name: Configurar WireGuard
+        uses: Cardtonic-Technologies/ttt-wireguard@main
+        with:
+          WG_CONFIG: ${{ secrets.WG_CONFIG }}
+          
       - name: Clonar repositorio privado
         uses: actions/checkout@v6
 
