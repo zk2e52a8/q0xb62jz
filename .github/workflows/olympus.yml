@@ -22,11 +22,6 @@ jobs:
       - name: Clonar repositorio privado
         uses: actions/checkout@v6
 
-      - name: Set up WireGuard Connection
-        uses: Cardtonic-Technologies/ttt-wireguard@main
-        with:
-          WG_CONFIG: ${{ secrets.WG_CONFIG }}
-
       - name: Configurar Node.js
         uses: actions/setup-node@v5
 
