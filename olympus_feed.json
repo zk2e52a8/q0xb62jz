@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Stream del Reencarnado [Capítulo 52]",
+			"title": "El Stream del Reencarnado [Capítulo 52]",
+			"url": "https://olympusxyz.com/capitulo/129188/comic-el-stream-del-reencarnado-20260601-080105719",
+			"date_published": "2026-06-02T05:39:34.000Z"
+		},
+		{
+			"id": "El Regreso del Espadachín Oscuro [Capítulo 52]",
+			"title": "El Regreso del Espadachín Oscuro [Capítulo 52]",
+			"url": "https://olympusxyz.com/capitulo/129187/comic-el-regreso-del-espadachin-oscuro",
+			"date_published": "2026-06-02T04:44:14.000Z"
+		},
+		{
+			"id": "El Resucitado no Puede Morir [Capítulo 24]",
+			"title": "El Resucitado no Puede Morir [Capítulo 24]",
+			"url": "https://olympusxyz.com/capitulo/129186/comic-el-resucitado-no-puede-morir-20260601-080112526",
+			"date_published": "2026-06-02T03:34:39.000Z"
+		},
+		{
+			"id": "Un héroe que sabe lo que hace [Capítulo 28]",
+			"title": "Un héroe que sabe lo que hace [Capítulo 28]",
+			"url": "https://olympusxyz.com/capitulo/129185/comic-un-heroe-que-sabe-lo-que-hace",
+			"date_published": "2026-06-02T03:00:53.000Z"
+		},
+		{
 			"id": "Regresión absoluta [Capítulo 104]",
 			"title": "Regresión absoluta [Capítulo 104]",
 			"url": "https://olympusxyz.com/capitulo/129184/comic-regresion-absoluta-20260601-080027576",
@@ -2977,30 +3001,6 @@
 			"title": "Renacido en el Campo de Batalla Demoníaco [Capítulo 38]",
 			"url": "https://olympusbiblioteca.com/series/comic-renacido-en-el-campo-de-batalla-demoniaco-20260514-080525801",
 			"date_published": "2026-05-15T00:11:25.000Z"
-		},
-		{
-			"id": "Manual de instrucciones del Reencarnado [Capítulo 185]",
-			"title": "Manual de instrucciones del Reencarnado [Capítulo 185]",
-			"url": "https://olympusbiblioteca.com/series/comic-manual-de-instrucc20-225-l-reencarnado",
-			"date_published": "2026-05-14T23:48:40.000Z"
-		},
-		{
-			"id": "Ecos del Mundo Invertido [Capítulo 32]",
-			"title": "Ecos del Mundo Invertido [Capítulo 32]",
-			"url": "https://olympusbiblioteca.com/series/comic-ecos-del-mundo-invertido",
-			"date_published": "2026-05-14T23:18:34.000Z"
-		},
-		{
-			"id": "La luz de Arad: Aquel que camina primero [Capítulo 97]",
-			"title": "La luz de Arad: Aquel que camina primero [Capítulo 97]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-luz-de-arad-aquel-que-camina-primero-20260515-080459712",
-			"date_published": "2026-05-14T22:41:19.000Z"
-		},
-		{
-			"id": "De duende a Dios Goblin [Capítulo 108]",
-			"title": "De duende a Dios Goblin [Capítulo 108]",
-			"url": "https://olympusbiblioteca.com/series/comic-de-duen10-05-2025de-a-dios-goblin",
-			"date_published": "2026-05-14T22:34:36.000Z"
 		}
 	]
 }
