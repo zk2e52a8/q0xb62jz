@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Regresé con el poder del Rey [Capítulo 142]",
+			"title": "Regresé con el poder del Rey [Capítulo 142]",
+			"url": "https://olympusxyz.com/capitulo/129233/comic-regrese-con-el-poder-del-rey-20260602-080414572",
+			"date_published": "2026-06-03T08:29:39.000Z"
+		},
+		{
+			"id": "Transmisión en vivo del Dios de la Espada [Capítulo 16]",
+			"title": "Transmisión en vivo del Dios de la Espada [Capítulo 16]",
+			"url": "https://olympusxyz.com/capitulo/129232/comic-transmision-en-vivo-del-dios-de-la-espada",
+			"date_published": "2026-06-03T06:50:45.000Z"
+		},
+		{
+			"id": "Jugador devorador de acero [Capítulo 92]",
+			"title": "Jugador devorador de acero [Capítulo 92]",
+			"url": "https://olympusxyz.com/capitulo/129228/comic-jugador-devorador-de-acero-20260602-080411048",
+			"date_published": "2026-06-03T04:37:08.000Z"
+		},
+		{
 			"id": "Demonio de la lanza inigualable [Capítulo 51]",
 			"title": "Demonio de la lanza inigualable [Capítulo 51]",
 			"url": "https://olympusxyz.com/capitulo/129225/comic-demonio-de-la-lanza-inigualable",
@@ -571,12 +589,6 @@
 			"title": "El maestro de la espada Genio de la academia [Capítulo 138]",
 			"url": "https://olympusxyz.com/capitulo/129115/comic-el-maestro-de-la-espada-genio-de-la-academia-20260531-080054062",
 			"date_published": "2026-05-30T21:33:27.000Z"
-		},
-		{
-			"id": "Regresé con el poder del Rey [Capítulo 142]",
-			"title": "Regresé con el poder del Rey [Capítulo 142]",
-			"url": "https://olympusxyz.com/capitulo/129113/comic-regrese-con-el-poder-del-rey-20260531-080018136",
-			"date_published": "2026-05-30T21:23:06.000Z"
 		},
 		{
 			"id": "El mecánico legendario [Capítulo 281.05]",
@@ -2989,18 +3001,6 @@
 			"title": "Inicializando el Sistema de la Secta [Capítulo 37]",
 			"url": "https://olympusbiblioteca.com/series/comic-inicializando-el-sistema-de-la-secta-20260516-080443356",
 			"date_published": "2026-05-15T20:54:25.000Z"
-		},
-		{
-			"id": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 55]",
-			"title": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 55]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-hijo-menor-del-grupo-mercantil-eunhae",
-			"date_published": "2026-05-15T20:16:07.000Z"
-		},
-		{
-			"id": "Una carta de amor del futuro [Capítulo 44]",
-			"title": "Una carta de amor del futuro [Capítulo 44]",
-			"url": "https://olympusbiblioteca.com/series/comic-5zxzamor-del-futuro",
-			"date_published": "2026-05-15T19:04:26.000Z"
 		}
 	]
 }
