@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Esclavo Corporativo en una Historia de Fantasmas [Capítulo 15]",
+			"title": "Esclavo Corporativo en una Historia de Fantasmas [Capítulo 15]",
+			"url": "https://olympusxyz.com/capitulo/129337/comic-esclavo-corporativo-en-una-historia-de-fantasmas",
+			"date_published": "2026-06-06T03:46:05.000Z"
+		},
+		{
+			"id": "Transmisión en vivo del Dios de la Espada [Capítulo 20]",
+			"title": "Transmisión en vivo del Dios de la Espada [Capítulo 20]",
+			"url": "https://olympusxyz.com/capitulo/129335/comic-transmision-en-vivo-del-dios-de-la-espada",
+			"date_published": "2026-06-06T02:50:52.000Z"
+		},
+		{
 			"id": "Mago prismático genio [Capítulo 79]",
 			"title": "Mago prismático genio [Capítulo 79]",
 			"url": "https://olympusxyz.com/capitulo/129334/comic-mago-prismatico-genio-20260605-080411097",
@@ -2989,18 +3001,6 @@
 			"title": "Goblin de nivel 999 [Capítulo 54]",
 			"url": "https://olympusbiblioteca.com/series/comic-goblin-de-nivel-999-20260519-080425919",
 			"date_published": "2026-05-18T17:42:53.000Z"
-		},
-		{
-			"id": "El príncipe heredero que vende medicina [Capítulo 108]",
-			"title": "El príncipe heredero que vende medicina [Capítulo 108]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-principe-heredero-que-vende-medicina-20260519-080408958",
-			"date_published": "2026-05-18T17:34:26.000Z"
-		},
-		{
-			"id": "El Rebelde de la Noble Familia Tiránica [Capítulo 23]",
-			"title": "El Rebelde de la Noble Familia Tiránica [Capítulo 23]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rebelde-de-la-noble-familia-tiranica",
-			"date_published": "2026-05-18T16:02:04.000Z"
 		}
 	]
 }
