@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Mago prismático genio [Capítulo 79]",
+			"title": "Mago prismático genio [Capítulo 79]",
+			"url": "https://olympusxyz.com/capitulo/129334/comic-mago-prismatico-genio-20260605-080411097",
+			"date_published": "2026-06-06T01:58:01.000Z"
+		},
+		{
+			"id": "Esclavo Corporativo en una Historia de Fantasmas [Capítulo 14]",
+			"title": "Esclavo Corporativo en una Historia de Fantasmas [Capítulo 14]",
+			"url": "https://olympusxyz.com/capitulo/129332/comic-esclavo-corporativo-en-una-historia-de-fantasmas",
+			"date_published": "2026-06-06T01:26:00.000Z"
+		},
+		{
+			"id": "Sangre Maldita [Capítulo 88.5]",
+			"title": "Sangre Maldita [Capítulo 88.5]",
+			"url": "https://olympusxyz.com/capitulo/129330/comic-sangre-maldita-20260605-080408749",
+			"date_published": "2026-06-06T00:14:15.000Z"
+		},
+		{
+			"id": "La evolución de la serpiente inmortal [Capítulo 90]",
+			"title": "La evolución de la serpiente inmortal [Capítulo 90]",
+			"url": "https://olympusxyz.com/capitulo/129328/comic-la-evolucion-de-la-serpiente-inmortal",
+			"date_published": "2026-06-05T23:20:40.000Z"
+		},
+		{
+			"id": "El demonio celestial quiere una vida tranquila [Capítulo 82]",
+			"title": "El demonio celestial quiere una vida tranquila [Capítulo 82]",
+			"url": "https://olympusxyz.com/capitulo/129090/comic-el-demonio-celestial-quiere-una-vida-tranquila-20260605-080409417",
+			"date_published": "2026-06-05T21:44:10.000Z"
+		},
+		{
 			"id": "Esclavo Corporativo en una Historia de Fantasmas [Capítulo 7]",
 			"title": "Esclavo Corporativo en una Historia de Fantasmas [Capítulo 7]",
 			"url": "https://olympusxyz.com/capitulo/129323/comic-esclavo-corporativo-en-una-historia-de-fantasmas",
@@ -2971,36 +3001,6 @@
 			"title": "El Rebelde de la Noble Familia Tiránica [Capítulo 23]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-rebelde-de-la-noble-familia-tiranica",
 			"date_published": "2026-05-18T16:02:04.000Z"
-		},
-		{
-			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 117]",
-			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 117]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-marcial-que-regreso-al-nivel-2-20260519-080440376",
-			"date_published": "2026-05-18T14:11:48.000Z"
-		},
-		{
-			"id": "El extra de la novela (remake) [Capítulo 157]",
-			"title": "El extra de la novela (remake) [Capítulo 157]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-ext20-225-ra-de-la-novela-remake13424",
-			"date_published": "2026-05-18T14:06:05.000Z"
-		},
-		{
-			"id": "Registros del Erudito Espadachín [Capítulo 202]",
-			"title": "Registros del Erudito Espadachín [Capítulo 202]",
-			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025ito-espadachin5324",
-			"date_published": "2026-05-18T13:04:36.000Z"
-		},
-		{
-			"id": "Los gemelos Baek [Capítulo 173]",
-			"title": "Los gemelos Baek [Capítulo 173]",
-			"url": "https://olympusbiblioteca.com/series/comic-los-gemelos-baek-20260519-080437792",
-			"date_published": "2026-05-18T02:54:25.000Z"
-		},
-		{
-			"id": "Demonio de la lanza inigualable [Capítulo 50]",
-			"title": "Demonio de la lanza inigualable [Capítulo 50]",
-			"url": "https://olympusbiblioteca.com/series/comic-demonio-de-la-lanza-inigualable",
-			"date_published": "2026-05-18T01:52:09.000Z"
 		}
 	]
 }
