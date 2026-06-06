@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Heroe, regresa [Capítulo 157]",
+			"title": "Heroe, regresa [Capítulo 157]",
+			"url": "https://olympusxyz.com/capitulo/129345/comic-dragon-20-225-y-heroe13424",
+			"date_published": "2026-06-06T16:32:06.000Z"
+		},
+		{
+			"id": "El legendario prodigio del ducado [Capítulo 51]",
+			"title": "El legendario prodigio del ducado [Capítulo 51]",
+			"url": "https://olympusxyz.com/capitulo/129344/comic-el-legendario-prodigio-del-ducado",
+			"date_published": "2026-06-06T16:18:02.000Z"
+		},
+		{
+			"id": "El Retornado Quiere una Vida Tranquila [Capítulo 46]",
+			"title": "El Retornado Quiere una Vida Tranquila [Capítulo 46]",
+			"url": "https://olympusxyz.com/capitulo/129207/comic-el-retornado-quiere-una-vida-tranquila",
+			"date_published": "2026-06-06T15:58:57.000Z"
+		},
+		{
+			"id": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 58]",
+			"title": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 58]",
+			"url": "https://olympusxyz.com/capitulo/129343/comic-me-converti-en-el-villano-con-el-que-la-heroina-esta-obsesionada",
+			"date_published": "2026-06-06T14:24:15.000Z"
+		},
+		{
+			"id": "El Herrero que Regresó para Reparar Todo [Capítulo 30]",
+			"title": "El Herrero que Regresó para Reparar Todo [Capítulo 30]",
+			"url": "https://olympusxyz.com/capitulo/129342/comic-el-herrero-que-regreso-para-reparar-todo",
+			"date_published": "2026-06-06T13:52:40.000Z"
+		},
+		{
 			"id": "Civilización Nebula [Capítulo 131]",
 			"title": "Civilización Nebula [Capítulo 131]",
 			"url": "https://olympusxyz.com/capitulo/129339/comic-civilizacion-nebula-20260606-080344934",
@@ -2971,36 +3001,6 @@
 			"title": "La Guía Definitiva del Extra de Nivel Dios (Remake) [Capítulo 57]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-guia-definitiva-del-extra-de-nivel-dios-remake",
 			"date_published": "2026-05-18T23:12:52.000Z"
-		},
-		{
-			"id": "Regreso del ranker de clase SSS [Capítulo 192]",
-			"title": "Regreso del ranker de clase SSS [Capítulo 192]",
-			"url": "https://olympusbiblioteca.com/series/comic-regr20-225-eso-del-ranker-de-clase-ss13424",
-			"date_published": "2026-05-18T22:52:17.000Z"
-		},
-		{
-			"id": "Los Breakers [Capítulo 79]",
-			"title": "Los Breakers [Capítulo 79]",
-			"url": "https://olympusbiblioteca.com/series/comic-los-breakers-20260519-080447401",
-			"date_published": "2026-05-18T21:37:54.000Z"
-		},
-		{
-			"id": "Los Breakers [Capítulo 78]",
-			"title": "Los Breakers [Capítulo 78]",
-			"url": "https://olympusbiblioteca.com/series/comic-los-breakers-20260518-080455994",
-			"date_published": "2026-05-18T20:26:41.000Z"
-		},
-		{
-			"id": "Al Diablo la Ventana de Estado [Capítulo 21]",
-			"title": "Al Diablo la Ventana de Estado [Capítulo 21]",
-			"url": "https://olympusbiblioteca.com/series/comic-al-diablo-la-ventana-de-estado-20260519-080452529",
-			"date_published": "2026-05-18T19:41:21.000Z"
-		},
-		{
-			"id": "entrenador de clases [Capítulo 165]",
-			"title": "entrenador de clases [Capítulo 165]",
-			"url": "https://olympusbiblioteca.com/series/comic-entrenador-de-clases-20260519-080425941",
-			"date_published": "2026-05-18T18:57:09.000Z"
 		}
 	]
 }
